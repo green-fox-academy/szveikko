@@ -76,6 +76,7 @@ int main(int argc, char const *argv[]) {
         std::cout << k << std::endl;
     }
     {
+        std::cout << "ex12" << std::endl;
         int a = 6;
         int b = 10;
         int c = 10;
@@ -85,8 +86,23 @@ int main(int argc, char const *argv[]) {
         std::cout << "Volume: " << volume << std::endl;
 
     }
+    {
+        std::cout << "ex13" << std::endl;
+        int ch = 14;
+        int cm = 34;
+        int cs = 42;
+        int actsec = ((ch*60*60)+(cm*60)+(cs));
+        int secperday = (24*60*60);
+        std::cout << secperday-actsec << std::endl;
+    }
+    {
+        std::cout << "ex14 \nWhat is your name? (insert below)" << std::endl;
+        std::string username;
+        std::cin >> username;
 
 
+        std::cout << "Hello " << username << "!" << std::endl;
+    }
 
 
 

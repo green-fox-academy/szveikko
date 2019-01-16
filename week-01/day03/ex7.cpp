@@ -75,6 +75,16 @@ int main(int argc, char const *argv[]) {
         k=(k+k+k+k);
         std::cout << k << std::endl;
     }
+    {
+        int a = 6;
+        int b = 10;
+        int c = 10;
+        int surface = a*a+b*b+c*c;
+        int volume = a*b*c;
+        std::cout << "Surface Area: " << surface << std::endl;
+        std::cout << "Volume: " << volume << std::endl;
+
+    }
 
 
 

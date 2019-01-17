@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-01/day04/main.cpp">
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-01/day04/ex12.cpp">
 			<Option target="day04"/>
 		</Unit>
 		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-01/day04/CMakeLists.txt">

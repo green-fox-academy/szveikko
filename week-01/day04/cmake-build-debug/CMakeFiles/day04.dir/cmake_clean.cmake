@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/day04.dir/main.cpp.obj"
+  "CMakeFiles/day04.dir/ex12.cpp.obj"
   "day04.pdb"
   "day04.exe"
   "day04.exe.manifest"

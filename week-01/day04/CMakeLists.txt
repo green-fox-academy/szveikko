@@ -3,4 +3,4 @@ project(day04)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(day04 ex10.cpp)
+add_executable(day04 main.cpp)

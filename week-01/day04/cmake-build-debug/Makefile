@@ -122,32 +122,32 @@ day04/fast:
 	$(MAKE) -f CMakeFiles\day04.dir\build.make CMakeFiles/day04.dir/build
 .PHONY : day04/fast
 
-ex02.obj: ex02.cpp.obj
+main.obj: main.cpp.obj
 
-.PHONY : ex02.obj
+.PHONY : main.obj
 
 # target to build an object file
-ex02.cpp.obj:
-	$(MAKE) -f CMakeFiles\day04.dir\build.make CMakeFiles/day04.dir/ex02.cpp.obj
-.PHONY : ex02.cpp.obj
+main.cpp.obj:
+	$(MAKE) -f CMakeFiles\day04.dir\build.make CMakeFiles/day04.dir/main.cpp.obj
+.PHONY : main.cpp.obj
 
-ex02.i: ex02.cpp.i
+main.i: main.cpp.i
 
-.PHONY : ex02.i
+.PHONY : main.i
 
 # target to preprocess a source file
-ex02.cpp.i:
-	$(MAKE) -f CMakeFiles\day04.dir\build.make CMakeFiles/day04.dir/ex02.cpp.i
-.PHONY : ex02.cpp.i
+main.cpp.i:
+	$(MAKE) -f CMakeFiles\day04.dir\build.make CMakeFiles/day04.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-ex02.s: ex02.cpp.s
+main.s: main.cpp.s
 
-.PHONY : ex02.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-ex02.cpp.s:
-	$(MAKE) -f CMakeFiles\day04.dir\build.make CMakeFiles/day04.dir/ex02.cpp.s
-.PHONY : ex02.cpp.s
+main.cpp.s:
+	$(MAKE) -f CMakeFiles\day04.dir\build.make CMakeFiles/day04.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... day04
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... ex02.obj
-	@echo ... ex02.i
-	@echo ... ex02.s
+	@echo ... main.obj
+	@echo ... main.i
+	@echo ... main.s
 .PHONY : help
 
 

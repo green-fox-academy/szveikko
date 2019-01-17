@@ -56,27 +56,27 @@ include CMakeFiles/day04.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/day04.dir/flags.make
 
-CMakeFiles/day04.dir/ex02.cpp.obj: CMakeFiles/day04.dir/flags.make
-CMakeFiles/day04.dir/ex02.cpp.obj: ../ex02.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-01\day04\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/day04.dir/ex02.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\day04.dir\ex02.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-01\day04\ex02.cpp
+CMakeFiles/day04.dir/main.cpp.obj: CMakeFiles/day04.dir/flags.make
+CMakeFiles/day04.dir/main.cpp.obj: ../main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-01\day04\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/day04.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\day04.dir\main.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-01\day04\main.cpp
 
-CMakeFiles/day04.dir/ex02.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/day04.dir/ex02.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-01\day04\ex02.cpp > CMakeFiles\day04.dir\ex02.cpp.i
+CMakeFiles/day04.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/day04.dir/main.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-01\day04\main.cpp > CMakeFiles\day04.dir\main.cpp.i
 
-CMakeFiles/day04.dir/ex02.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/day04.dir/ex02.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-01\day04\ex02.cpp -o CMakeFiles\day04.dir\ex02.cpp.s
+CMakeFiles/day04.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/day04.dir/main.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-01\day04\main.cpp -o CMakeFiles\day04.dir\main.cpp.s
 
 # Object files for target day04
 day04_OBJECTS = \
-"CMakeFiles/day04.dir/ex02.cpp.obj"
+"CMakeFiles/day04.dir/main.cpp.obj"
 
 # External object files for target day04
 day04_EXTERNAL_OBJECTS =
 
-day04.exe: CMakeFiles/day04.dir/ex02.cpp.obj
+day04.exe: CMakeFiles/day04.dir/main.cpp.obj
 day04.exe: CMakeFiles/day04.dir/build.make
 day04.exe: CMakeFiles/day04.dir/linklibs.rsp
 day04.exe: CMakeFiles/day04.dir/objects1.rsp

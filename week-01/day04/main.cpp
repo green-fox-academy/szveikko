@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-int factorio(int input);
+void factorio(int input,int& b);
 int main(int argc, char* args[]) {
 
     // - Create a function called `factorio`
@@ -9,18 +9,17 @@ int main(int argc, char* args[]) {
     std::cout << "write a number, i will give you its factorial" << std::endl;
     int input, result;
     std::cin >> input;
-    result = factorio(input);
+    factorio(input, result); //result == b
     std::cout << result << std::endl;
 
 
     return 0;
 }
 
-int factorio(int input){
+void factorio(int input,int& b){ // b == result
     int a = 0;
-    int b = 1;
+    b = 1;
     for(int i = 1; i <= input; i++){
         b *= i;
     }
-    return b;
 }

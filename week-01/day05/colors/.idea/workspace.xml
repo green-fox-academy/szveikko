@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="double" targetName="double" />
+      <config projectName="colors" targetName="colors" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be59932-92cc-408e-b3f0-55f24e0fb860" name="Default Changelist" comment="">
+    <list default="true" id="9978afa5-f258-421c-936a-44f703f6e5b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day03/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day03/cmake-build-debug/CMakeFiles/day03.dir/ex7.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/cmake-build-debug/CMakeFiles/day03.dir/ex7.cpp.obj" afterDir="false" />
@@ -19,6 +19,7 @@
       <change beforePath="$PROJECT_DIR$/../../day03/cmake-build-debug/day03.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/cmake-build-debug/day03.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day04/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day04/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day04/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../double/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../double/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="289">
+              <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -89,7 +90,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="double" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="double" TARGET_NAME="double" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="double" RUN_TARGET_NAME="double">
+    <configuration name="colors" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="colors" TARGET_NAME="colors" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="colors" RUN_TARGET_NAME="colors">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -100,17 +101,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6be59932-92cc-408e-b3f0-55f24e0fb860" name="Default Changelist" comment="" />
-      <created>1547829646065</created>
+      <changelist id="9978afa5-f258-421c-936a-44f703f6e5b3" name="Default Changelist" comment="" />
+      <created>1547905187542</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547829646065</updated>
-      <workItem from="1547829647582" duration="1056000" />
+      <updated>1547905187542</updated>
+      <workItem from="1547905189274" duration="2851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1056000" />
+    <option name="totallyTimeSpent" value="2851000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -127,7 +128,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -147,8 +148,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="289">
+          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
         </state>
       </provider>
     </entry>

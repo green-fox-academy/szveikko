@@ -14,22 +14,26 @@ int main(int argc, char* args[]) {
     //   0 0 0 1
     //
     // - Print this two dimensional array to the output
-    int a;
-    int b;
-    int array [a][b];
-    for(int i = 0; i < 4 ; i++) {
-        a += i;
-        return a;
-    }
-    for(int i = 0; i < 4 ; i++){
-        b += i;
-        return b;
-    }
-    for(int i = 1; i < 4; i++){
-        array[a += i][b += i];}
-    for(int i = 0; i < 4; i++ ){
-        for(int c = 0; c < 4; c++){
-            std::cout << array[c][c] << " ";
+   int sizeOfArray;
+   std::cout << " give a number, it will define the row, and col length of the array" << std::endl;
+   std::cin >> sizeOfArray;
+   int array [sizeOfArray][sizeOfArray];
+
+   for(int i = 0; i < sizeOfArray; i++){
+
+       for(int j = 0; j < sizeOfArray; j++){
+           if(i==j){
+               array [i][j] = 1;
+           }else{
+               array [i][j] = 0;
+           }
+       }
+   }
+   //print the array
+    for(int k = 0; k < sizeOfArray; k++) {
+
+        for (int l = 0; l < sizeOfArray; l++) {
+            std::cout << array[k][l] << " ";
         }
         std::cout << std::endl;
     }

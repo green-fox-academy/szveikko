@@ -9,7 +9,7 @@ int main(int argc, char* args[]) {
     std::string animals [1][3] {"koal", "pand", "zebr"};
 
     for(int i = 0; i < 3; i++){
-        animals [0][i] += "a ";
+        animals [0][i] += "a";
     }
     for(int j = 0; j < 3; j ++){
         std::cout << animals [0][j];

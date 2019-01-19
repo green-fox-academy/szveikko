@@ -1,0 +1,3 @@
+C:/Users/veikk/greenfox/greenfox/week-01/day05/iWontCheatOnExams/cmake-build-debug/CMakeFiles/iWontCheatOnExams.dir
+C:/Users/veikk/greenfox/greenfox/week-01/day05/iWontCheatOnExams/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/veikk/greenfox/greenfox/week-01/day05/iWontCheatOnExams/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -6,15 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/veikk/greenfox/greenfox/week-02/day01/matchmaker/main.cpp
+C:/Users/veikk/greenfox/greenfox/week-02/day01/takesLonger/main.cpp
 iostream
 -
 string
--
-vector
--
-utility
--
-map
 -
 

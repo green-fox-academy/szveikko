@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="matchmaker" targetName="matchmaker" />
+      <config projectName="kidsWithCandies" targetName="kidsWithCandies" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c15629de-6b19-48e0-ba6a-88b93759fea7" name="Default Changelist" comment="">
+    <list default="true" id="a9b34eb4-2c64-47f0-9b09-69db2f745935" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../week-01/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/day03.dir/ex7.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/day03.dir/ex7.cpp.obj" afterDir="false" />
@@ -20,7 +20,12 @@
       <change beforePath="$PROJECT_DIR$/../../../week-01/day04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day04/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day04/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day04/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day05/MultiBoard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day05/MultiBoard/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matchmaker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../matchmaker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matchmaker/cmake-build-debug/CMakeFiles/matchmaker.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../matchmaker/cmake-build-debug/CMakeFiles/matchmaker.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matchmaker/cmake-build-debug/CMakeFiles/matchmaker.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../matchmaker/cmake-build-debug/CMakeFiles/matchmaker.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matchmaker/cmake-build-debug/CMakeFiles/matchmaker.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../matchmaker/cmake-build-debug/CMakeFiles/matchmaker.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matchmaker/cmake-build-debug/matchmaker.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../matchmaker/cmake-build-debug/matchmaker.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matchmaker/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../matchmaker/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,23 +44,7 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/bits/stl_vector.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="643">
-              <caret line="956" column="39" lean-forward="true" selection-start-line="956" selection-start-column="39" selection-end-line="956" selection-end-column="39" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -103,7 +92,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="matchmaker" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="matchmaker" TARGET_NAME="matchmaker" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="matchmaker" RUN_TARGET_NAME="matchmaker">
+    <configuration name="kidsWithCandies" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kidsWithCandies" TARGET_NAME="kidsWithCandies" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="kidsWithCandies" RUN_TARGET_NAME="kidsWithCandies">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -114,20 +103,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c15629de-6b19-48e0-ba6a-88b93759fea7" name="Default Changelist" comment="" />
-      <created>1548082314686</created>
+      <changelist id="a9b34eb4-2c64-47f0-9b09-69db2f745935" name="Default Changelist" comment="" />
+      <created>1548085861419</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548082314686</updated>
-      <workItem from="1548082316198" duration="3474000" />
+      <updated>1548085861419</updated>
+      <workItem from="1548085862985" duration="2117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3474000" />
+    <option name="totallyTimeSpent" value="2117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
@@ -135,13 +125,13 @@
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -158,22 +148,8 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://C:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/bits/stl_vector.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="956" column="39" lean-forward="true" selection-start-line="956" selection-start-column="39" selection-end-line="956" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

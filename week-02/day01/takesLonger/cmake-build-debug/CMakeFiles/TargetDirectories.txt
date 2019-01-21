@@ -1,0 +1,3 @@
+C:/Users/veikk/greenfox/greenfox/week-02/day01/takesLonger/cmake-build-debug/CMakeFiles/takesLonger.dir
+C:/Users/veikk/greenfox/greenfox/week-02/day01/takesLonger/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/veikk/greenfox/greenfox/week-02/day01/takesLonger/cmake-build-debug/CMakeFiles/rebuild_cache.dir

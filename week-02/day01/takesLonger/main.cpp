@@ -11,6 +11,8 @@ int main(int argc, char* args[])
     std::string you = "you";
     int itplace = quote.find(it);
     int youplace = quote.find(you);
+    std::string addquote = "always takes longer than ";
+    quote.insert (youplace, addquote);
     std::cout << quote << std::endl;
     return 0;
 }

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="printAdresses" targetName="printAdresses" />
+      <config projectName="lookValue" targetName="lookValue" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e8c394d-b543-4cbe-9e66-ca90709bdc86" name="Default Changelist" comment="">
+    <list default="true" id="2ad2f1dd-f7a4-4db0-8ccb-1b5d947a0838" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../week-01/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/day03.dir/ex7.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/day03.dir/ex7.cpp.obj" afterDir="false" />
@@ -21,6 +21,7 @@
       <change beforePath="$PROJECT_DIR$/../../../week-01/day04/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day04/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day05/MultiBoard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day05/MultiBoard/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day01/reverseString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day01/reverseString/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../printAdresses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../printAdresses/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            <state relative-caret-position="289">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -69,8 +70,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -91,7 +92,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="printAdresses" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="printAdresses" TARGET_NAME="printAdresses" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="printAdresses" RUN_TARGET_NAME="printAdresses">
+    <configuration name="lookValue" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lookValue" TARGET_NAME="lookValue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lookValue" RUN_TARGET_NAME="lookValue">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -102,20 +103,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0e8c394d-b543-4cbe-9e66-ca90709bdc86" name="Default Changelist" comment="" />
-      <created>1548154495206</created>
+      <changelist id="2ad2f1dd-f7a4-4db0-8ccb-1b5d947a0838" name="Default Changelist" comment="" />
+      <created>1548159218718</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548154495206</updated>
-      <workItem from="1548154496571" duration="2024000" />
+      <updated>1548159218718</updated>
+      <workItem from="1548159220298" duration="10884000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2024000" />
+    <option name="totallyTimeSpent" value="10884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
@@ -128,7 +130,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -148,8 +150,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="289">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
         </state>
       </provider>
     </entry>

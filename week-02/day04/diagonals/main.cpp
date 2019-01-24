@@ -22,16 +22,12 @@ SDL_Renderer* gRenderer = nullptr;
 
 void draw()
 {
-    // Draw a box that has different colored lines on each edge.
-    // The center of the box should align with the center of the screen.
+    // Draw the canvas' diagonals.
+    // If it starts from the upper-left corner it should be green, otherwise it should be red.
     SDL_SetRenderDrawColor(gRenderer, 255, 0, 0, 0);
-    SDL_RenderDrawLine(gRenderer, 160, 120, 480, 120);
+    SDL_RenderDrawLine(gRenderer, 640, 0, 0, 480);
     SDL_SetRenderDrawColor(gRenderer, 0, 255, 0, 0);
-    SDL_RenderDrawLine(gRenderer, 480, 120, 480, 360);
-    SDL_SetRenderDrawColor(gRenderer, 0, 0, 255, 0);
-    SDL_RenderDrawLine(gRenderer, 160, 360, 480, 360);
-    SDL_SetRenderDrawColor(gRenderer, 123, 132, 123, 255);
-    SDL_RenderDrawLine(gRenderer, 160, 120, 160, 360);
+    SDL_RenderDrawLine(gRenderer, 0, 0, 640, 480);
 }
 
 bool init()
@@ -44,7 +40,7 @@ bool init()
     }
 
     //Create window
-    gWindow = SDL_CreateWindow( "Colored Box", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, SCREEN_WIDTH, SCREEN_HEIGHT, SDL_WINDOW_SHOWN );
+    gWindow = SDL_CreateWindow( "Diagonals", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, SCREEN_WIDTH, SCREEN_HEIGHT, SDL_WINDOW_SHOWN );
     if( gWindow == nullptr )
     {
         std::cout << "Window could not be created! SDL Error: " << SDL_GetError() << std::endl;

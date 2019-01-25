@@ -10,7 +10,7 @@ void draw(int number);
 
 //Starts up SDL and creates window
 bool init();
-
+void drawSquare(int number);
 //Frees media and shuts down SDL
 void close();
 
@@ -27,9 +27,17 @@ void draw(int number) {
     // draw at least 3 squares with that function.
     // the squares should not be filled otherwise they will hide each other
     // avoid code duplication.
-    for (int k = 1; k < 5; k++) {
-        
+
+    for(int i = 50; i <= 200; i += 25){
+        drawSquare(i);
     }
+
+}
+void drawSquare(int number){
+    SDL_Rect kocka{320-(number/2), 240-(number/2), number, number};
+    SDL_SetRenderDrawColor(gRenderer, 0, 255, 0, 0);
+    SDL_RenderDrawRect(gRenderer, &kocka);
+
 }
 
 bool init() {
@@ -81,7 +89,7 @@ int main(int argc, char *args[]) {
 
     //Main loop flag
     bool quit = false;
-    int number = 50;
+    int number = 150;
     //Event handler
     SDL_Event e;
 

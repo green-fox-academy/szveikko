@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/tree/biotree.cpp
+biotree.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/tree/biotree.h
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/tree/biotree.h
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/tree/main.cpp
+iostream
+-
+vector
+-
+string
+-
+biotree.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/tree/biotree.h
+

@@ -1,0 +1,3 @@
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/HungerThirst/cmake-build-debug/CMakeFiles/HungerThirst.dir
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/HungerThirst/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/HungerThirst/cmake-build-debug/CMakeFiles/rebuild_cache.dir

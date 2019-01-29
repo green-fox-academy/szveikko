@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Counter/Counter.cpp
+Counter.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Counter/Counter.h
+iostream
+-
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Counter/Counter.h
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Counter/main.cpp
+iostream
+-
+Counter.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Counter/Counter.h
+

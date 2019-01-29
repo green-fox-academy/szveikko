@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/Sharpie.cpp
+Sharpie.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/Sharpie.h
+iostream
+-
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/Sharpie.h
+string
+-
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/main.cpp
+iostream
+-
+string
+-
+Sharpie.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/Sharpie.h
+

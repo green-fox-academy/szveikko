@@ -16,5 +16,6 @@ int main() {
     Fox.play(num, num);
     Fox.current(num, num);
 
+
     return 0;
 }

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-03/bigD-ice/dice_set.h
+iostream
+-
+vector
+-
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-03/bigD-ice/main.cpp
+iostream
+-
+dice_set.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-03/bigD-ice/dice_set.h
+

@@ -35,7 +35,7 @@ int main(int argc, char *args[]) {
     }
 
     if (pokeindex > -1) {
-        
+
         std::cout << "I choose You, " << pokemonOfAsh[pokeindex]._name << std::endl;
     }
     return 0;

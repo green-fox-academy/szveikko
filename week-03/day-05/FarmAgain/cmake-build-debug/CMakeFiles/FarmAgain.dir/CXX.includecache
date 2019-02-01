@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-05/FarmAgain/animal.cpp
+animal.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-05/FarmAgain/animal.h
+iostream
+-
+vector
+-
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-05/FarmAgain/animal.h
+vector
+-
+iostream
+-
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-05/FarmAgain/farm.cpp
+farm.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-05/FarmAgain/farm.h
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-05/FarmAgain/farm.h
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-05/FarmAgain/main.cpp
+iostream
+-
+animal.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-05/FarmAgain/animal.h
+vector
+-
+

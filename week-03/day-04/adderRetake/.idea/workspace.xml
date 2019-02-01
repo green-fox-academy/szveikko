@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="power" targetName="power" />
+      <config projectName="adderRetake" targetName="adderRetake" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ae1b848-070e-4ebf-b1fc-7865c99c5641" name="Default Changelist" comment="">
+    <list default="true" id="e232b6f0-f462-4f3f-a10d-2ec641f51e69" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../week-02/day02/voidSwap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day02/voidSwap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-02/day03/writeMultipleLines/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day03/writeMultipleLines/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-02/day04/squaresquaresquarebooooring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day04/squaresquaresquarebooooring/.idea/workspace.xml" afterDir="false" />
@@ -21,6 +21,7 @@
       <change beforePath="$PROJECT_DIR$/../../../week-02/day05/project2/cmake-build-debug/center_box_function.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day05/project2/cmake-build-debug/center_box_function.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-02/day05/project2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day05/project2/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day-02/Counter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-02/Counter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../power/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../power/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="221">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -80,8 +78,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -96,7 +92,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="power" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="power" TARGET_NAME="power" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="power" RUN_TARGET_NAME="power">
+    <configuration name="adderRetake" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="adderRetake" TARGET_NAME="adderRetake" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="adderRetake" RUN_TARGET_NAME="adderRetake">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -107,17 +103,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7ae1b848-070e-4ebf-b1fc-7865c99c5641" name="Default Changelist" comment="" />
-      <created>1548946721918</created>
+      <changelist id="e232b6f0-f462-4f3f-a10d-2ec641f51e69" name="Default Changelist" comment="" />
+      <created>1548966627928</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548946721918</updated>
-      <workItem from="1548946723568" duration="4161000" />
+      <updated>1548966627928</updated>
+      <workItem from="1548966629487" duration="196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4161000" />
+    <option name="totallyTimeSpent" value="196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -135,7 +131,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -148,28 +144,14 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>6</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>

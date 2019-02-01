@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="power" targetName="power" />
+      <config projectName="bunnies" targetName="bunnies" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ae1b848-070e-4ebf-b1fc-7865c99c5641" name="Default Changelist" comment="">
+    <list default="true" id="5c9dc8f2-667f-4147-97c3-cdec1af61f1c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../week-02/day02/voidSwap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day02/voidSwap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-02/day03/writeMultipleLines/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day03/writeMultipleLines/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-02/day04/squaresquaresquarebooooring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day04/squaresquaresquarebooooring/.idea/workspace.xml" afterDir="false" />
@@ -21,6 +21,7 @@
       <change beforePath="$PROJECT_DIR$/../../../week-02/day05/project2/cmake-build-debug/center_box_function.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day05/project2/cmake-build-debug/center_box_function.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-02/day05/project2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day05/project2/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day-02/Counter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-02/Counter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../power/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../power/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -72,15 +70,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
@@ -96,7 +93,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="power" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="power" TARGET_NAME="power" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="power" RUN_TARGET_NAME="power">
+    <configuration name="bunnies" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bunnies" TARGET_NAME="bunnies" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="bunnies" RUN_TARGET_NAME="bunnies">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -107,17 +104,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7ae1b848-070e-4ebf-b1fc-7865c99c5641" name="Default Changelist" comment="" />
-      <created>1548946721918</created>
+      <changelist id="5c9dc8f2-667f-4147-97c3-cdec1af61f1c" name="Default Changelist" comment="" />
+      <created>1548951041876</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548946721918</updated>
-      <workItem from="1548946723568" duration="4161000" />
+      <updated>1548951041876</updated>
+      <workItem from="1548951043678" duration="3582000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4161000" />
+    <option name="totallyTimeSpent" value="3582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -153,8 +150,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>6</line>
-          <option name="timeStamp" value="5" />
+          <line>17</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -165,11 +162,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
         </state>
       </provider>
     </entry>

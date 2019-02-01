@@ -1,0 +1,3 @@
+C:/Users/veikk/greenfox/greenfox/week-03/day-04/adderRetake/cmake-build-debug/CMakeFiles/adderRetake.dir
+C:/Users/veikk/greenfox/greenfox/week-03/day-04/adderRetake/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/veikk/greenfox/greenfox/week-03/day-04/adderRetake/cmake-build-debug/CMakeFiles/rebuild_cache.dir

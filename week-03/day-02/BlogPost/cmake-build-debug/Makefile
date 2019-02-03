@@ -122,6 +122,60 @@ BlogPost/fast:
 	$(MAKE) -f CMakeFiles\BlogPost.dir\build.make CMakeFiles/BlogPost.dir/build
 .PHONY : BlogPost/fast
 
+BlogPost.obj: BlogPost.cpp.obj
+
+.PHONY : BlogPost.obj
+
+# target to build an object file
+BlogPost.cpp.obj:
+	$(MAKE) -f CMakeFiles\BlogPost.dir\build.make CMakeFiles/BlogPost.dir/BlogPost.cpp.obj
+.PHONY : BlogPost.cpp.obj
+
+BlogPost.i: BlogPost.cpp.i
+
+.PHONY : BlogPost.i
+
+# target to preprocess a source file
+BlogPost.cpp.i:
+	$(MAKE) -f CMakeFiles\BlogPost.dir\build.make CMakeFiles/BlogPost.dir/BlogPost.cpp.i
+.PHONY : BlogPost.cpp.i
+
+BlogPost.s: BlogPost.cpp.s
+
+.PHONY : BlogPost.s
+
+# target to generate assembly for a file
+BlogPost.cpp.s:
+	$(MAKE) -f CMakeFiles\BlogPost.dir\build.make CMakeFiles/BlogPost.dir/BlogPost.cpp.s
+.PHONY : BlogPost.cpp.s
+
+blog.obj: blog.cpp.obj
+
+.PHONY : blog.obj
+
+# target to build an object file
+blog.cpp.obj:
+	$(MAKE) -f CMakeFiles\BlogPost.dir\build.make CMakeFiles/BlogPost.dir/blog.cpp.obj
+.PHONY : blog.cpp.obj
+
+blog.i: blog.cpp.i
+
+.PHONY : blog.i
+
+# target to preprocess a source file
+blog.cpp.i:
+	$(MAKE) -f CMakeFiles\BlogPost.dir\build.make CMakeFiles/BlogPost.dir/blog.cpp.i
+.PHONY : blog.cpp.i
+
+blog.s: blog.cpp.s
+
+.PHONY : blog.s
+
+# target to generate assembly for a file
+blog.cpp.s:
+	$(MAKE) -f CMakeFiles\BlogPost.dir\build.make CMakeFiles/BlogPost.dir/blog.cpp.s
+.PHONY : blog.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +212,12 @@ help:
 	@echo ... BlogPost
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... BlogPost.obj
+	@echo ... BlogPost.i
+	@echo ... BlogPost.s
+	@echo ... blog.obj
+	@echo ... blog.i
+	@echo ... blog.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

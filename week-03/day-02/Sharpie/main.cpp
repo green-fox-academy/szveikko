@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include "Sharpie.h"
-
+#include "SharpieSet.h"
 int main() {
 
     std::string color1, color2, color3;
@@ -26,5 +26,9 @@ int main() {
     std::cout << "How many minutes did you use your pen?" << std::endl;
     std::cin >> minutes;
     first.use(minutes);
+    SharpieSet Set(first, second, third);
+
+    std::cout << "You have " << Set.countUsable(first, second, third) << " sharpies you can still use." << std::endl;
+    Set.removeTrash(Set.Sharpies);
     return 0;
 }

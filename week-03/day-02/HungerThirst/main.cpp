@@ -1,21 +1,21 @@
 #include <iostream>
 #include <string>
 #include "Animal.h"
-
-
+#include "farm.h"
+#include <vector>
+#include <list>
 int main() {
-    int num = 1;
-    int num1 = num;
-    int hunger = 50;
-    int thirst = 50;
-    Animal Fox (thirst, hunger);
-    Animal Wolf (thirst, hunger);
+
+    /*Animal Fox(thirst, hunger);
+    Animal Wolf(thirst, hunger);
     Fox.eat(num);
     Fox.drink(num);
     Fox.play(num, num);
     Fox.play(num, num);
-    Fox.current(num, num);
-
+    Fox.current(num, num);  */
+    int inputNumberOfAnimals = 10; //this will be an user input
+    Farm theFarm(inputNumberOfAnimals);
 
     return 0;
-}
+};
+

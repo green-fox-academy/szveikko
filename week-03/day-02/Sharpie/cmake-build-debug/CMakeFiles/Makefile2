@@ -70,7 +70,7 @@ CMAKE_BINARY_DIR = C:\Users\veikk\greenfox\greenfox\week-03\day-02\Sharpie\cmake
 CMakeFiles/Sharpie.dir/all:
 	$(MAKE) -f CMakeFiles\Sharpie.dir\build.make CMakeFiles/Sharpie.dir/depend
 	$(MAKE) -f CMakeFiles\Sharpie.dir\build.make CMakeFiles/Sharpie.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\Sharpie\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target Sharpie"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\Sharpie\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4 "Built target Sharpie"
 .PHONY : CMakeFiles/Sharpie.dir/all
 
 # Include target in all.
@@ -80,7 +80,7 @@ all: CMakeFiles/Sharpie.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Sharpie.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\veikk\greenfox\greenfox\week-03\day-02\Sharpie\cmake-build-debug\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\veikk\greenfox\greenfox\week-03\day-02\Sharpie\cmake-build-debug\CMakeFiles 4
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/Sharpie.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\veikk\greenfox\greenfox\week-03\day-02\Sharpie\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Sharpie.dir/rule

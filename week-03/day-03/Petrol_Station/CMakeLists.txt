@@ -3,4 +3,12 @@ project(Petrol_Station)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Petrol_Station main.cpp Station.cpp Station.h car.cpp car.h)
+include_directories(.)
+
+add_executable(Petrol_Station
+        car.cpp
+        car.h
+        CMakeLists.txt
+        main.cpp
+        Station.cpp
+        Station.h)

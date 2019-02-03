@@ -5,15 +5,18 @@
 #ifndef PETROL_STATION_CAR_H
 #define PETROL_STATION_CAR_H
 
+#include "Station.h"
 
 class Car {
 public:
     Car(int gasAmount, int capacity);
-    bool isFull(int gasAmount_, int capacity_);
     void fill();
+    bool isFull();
+    int capacity_;
+    int gasAmount_;
+    void fill2();
 private:
-    gasAmount_;
-    capacity_;
+
 };
 
 

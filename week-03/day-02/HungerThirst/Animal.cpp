@@ -4,21 +4,22 @@
 
 #include "Animal.h"
 #include <iostream>
-Animal::Animal(int thirst, int hunger){
-thirst_ = thirst;
-hunger_ = hunger;}
+Animal::Animal(){
+thirst_ = 50;
+hunger_ = 50;
+}
 
-void Animal::eat(int one){
+void Animal::eat(){
     hunger_++;
 }
-void Animal::drink(int one){
+void Animal::drink(){
     thirst_++;
 }
-void Animal::play(int one, int one1){
+void Animal::play(){
     thirst_--;
     hunger_--;
 }
 
-void Animal::current(int num, int num1) {
+void Animal::current() {
     std::cout << Animal::thirst_ << Animal::hunger_;
 }

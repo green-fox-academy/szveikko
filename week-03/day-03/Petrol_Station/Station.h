@@ -6,13 +6,17 @@
 #define PETROL_STATION_STATION_H
 
 
+#include "car.h"
+
 class Station {
 public:
-    Station(int gasAmount);
+    Station(int stationGasAmount);
+    int fillCar(Car car);
+    int stationGasAmount_;
 private:
-    int gasAmount_;
+
 };
 
-void fillCar(int gasFillAmount);
+
 
 #endif //PETROL_STATION_STATION_H

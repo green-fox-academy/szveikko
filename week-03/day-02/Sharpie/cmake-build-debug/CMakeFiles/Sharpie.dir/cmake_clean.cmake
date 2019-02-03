@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Sharpie.dir/main.cpp.obj"
   "CMakeFiles/Sharpie.dir/Sharpie.cpp.obj"
+  "CMakeFiles/Sharpie.dir/SharpieSet.cpp.obj"
   "Sharpie.pdb"
   "Sharpie.exe"
   "Sharpie.exe.manifest"

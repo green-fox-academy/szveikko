@@ -9,6 +9,7 @@
 
 class Sharpie {
 public:
+
     Sharpie(std::string color, float width, float inkamount);
 
     std::string color_;
@@ -16,6 +17,7 @@ public:
     float inkamount_;
 
     void use(int useOfInk);
+
 
 };
 

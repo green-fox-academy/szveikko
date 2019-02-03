@@ -8,12 +8,13 @@
 
 class BlogPost {
 public:
-    BlogPost (std::string author, std::string title, std::string text, int date);
+    BlogPost();
+    BlogPost(std::string author, std::string title, std::string text, std::string date);
 private:
     std::string author_;
     std::string title_;
     std::string text_;
-    int date_;
+    std::string date_;
 };
 
 

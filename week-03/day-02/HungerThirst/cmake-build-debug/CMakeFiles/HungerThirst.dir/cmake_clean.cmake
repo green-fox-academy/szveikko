@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/HungerThirst.dir/main.cpp.obj"
   "CMakeFiles/HungerThirst.dir/Animal.cpp.obj"
+  "CMakeFiles/HungerThirst.dir/farm.cpp.obj"
+  "CMakeFiles/HungerThirst.dir/main.cpp.obj"
   "HungerThirst.pdb"
   "HungerThirst.exe"
   "HungerThirst.exe.manifest"

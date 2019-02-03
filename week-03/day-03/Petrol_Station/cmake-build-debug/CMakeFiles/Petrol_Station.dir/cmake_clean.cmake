@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Petrol_Station.dir/car.cpp.obj"
   "CMakeFiles/Petrol_Station.dir/main.cpp.obj"
   "CMakeFiles/Petrol_Station.dir/Station.cpp.obj"
-  "CMakeFiles/Petrol_Station.dir/car.cpp.obj"
   "Petrol_Station.pdb"
   "Petrol_Station.exe"
   "Petrol_Station.exe.manifest"

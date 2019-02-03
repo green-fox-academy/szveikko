@@ -5,12 +5,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/Sharpie.cpp" "C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/cmake-build-debug/CMakeFiles/Sharpie.dir/Sharpie.cpp.obj"
+  "C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/SharpieSet.cpp" "C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/cmake-build-debug/CMakeFiles/Sharpie.dir/SharpieSet.cpp.obj"
   "C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/main.cpp" "C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/cmake-build-debug/CMakeFiles/Sharpie.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../."
   )
 
 # Targets to which this target links.

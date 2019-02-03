@@ -6,7 +6,31 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/HungerThirst/Animal.cpp
+Animal.h
 C:/Users/veikk/greenfox/greenfox/week-03/day-02/HungerThirst/Animal.h
+iostream
+-
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/HungerThirst/Animal.h
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/HungerThirst/farm.cpp
+iostream
+-
+list
+-
+farm.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/HungerThirst/farm.h
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/HungerThirst/farm.h
+iostream
+-
+Animal.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/HungerThirst/Animal.h
+vector
+-
+list
+-
 
 C:/Users/veikk/greenfox/greenfox/week-03/day-02/HungerThirst/main.cpp
 iostream
@@ -15,4 +39,10 @@ string
 -
 Animal.h
 C:/Users/veikk/greenfox/greenfox/week-03/day-02/HungerThirst/Animal.h
+farm.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/HungerThirst/farm.h
+vector
+-
+list
+-
 

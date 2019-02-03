@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/BlogPost.dir/BlogPost.cpp.obj"
+  "CMakeFiles/BlogPost.dir/blog.cpp.obj"
   "CMakeFiles/BlogPost.dir/main.cpp.obj"
   "BlogPost.pdb"
   "BlogPost.exe"

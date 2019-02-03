@@ -56,9 +56,24 @@ include CMakeFiles/Petrol_Station.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Petrol_Station.dir/flags.make
 
+CMakeFiles/Petrol_Station.dir/car.cpp.obj: CMakeFiles/Petrol_Station.dir/flags.make
+CMakeFiles/Petrol_Station.dir/car.cpp.obj: CMakeFiles/Petrol_Station.dir/includes_CXX.rsp
+CMakeFiles/Petrol_Station.dir/car.cpp.obj: ../car.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Petrol_Station.dir/car.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Petrol_Station.dir\car.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\car.cpp
+
+CMakeFiles/Petrol_Station.dir/car.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Petrol_Station.dir/car.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\car.cpp > CMakeFiles\Petrol_Station.dir\car.cpp.i
+
+CMakeFiles/Petrol_Station.dir/car.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Petrol_Station.dir/car.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\car.cpp -o CMakeFiles\Petrol_Station.dir\car.cpp.s
+
 CMakeFiles/Petrol_Station.dir/main.cpp.obj: CMakeFiles/Petrol_Station.dir/flags.make
+CMakeFiles/Petrol_Station.dir/main.cpp.obj: CMakeFiles/Petrol_Station.dir/includes_CXX.rsp
 CMakeFiles/Petrol_Station.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Petrol_Station.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Petrol_Station.dir/main.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Petrol_Station.dir\main.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\main.cpp
 
 CMakeFiles/Petrol_Station.dir/main.cpp.i: cmake_force
@@ -70,8 +85,9 @@ CMakeFiles/Petrol_Station.dir/main.cpp.s: cmake_force
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\main.cpp -o CMakeFiles\Petrol_Station.dir\main.cpp.s
 
 CMakeFiles/Petrol_Station.dir/Station.cpp.obj: CMakeFiles/Petrol_Station.dir/flags.make
+CMakeFiles/Petrol_Station.dir/Station.cpp.obj: CMakeFiles/Petrol_Station.dir/includes_CXX.rsp
 CMakeFiles/Petrol_Station.dir/Station.cpp.obj: ../Station.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Petrol_Station.dir/Station.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Petrol_Station.dir/Station.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Petrol_Station.dir\Station.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\Station.cpp
 
 CMakeFiles/Petrol_Station.dir/Station.cpp.i: cmake_force
@@ -82,31 +98,18 @@ CMakeFiles/Petrol_Station.dir/Station.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Petrol_Station.dir/Station.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\Station.cpp -o CMakeFiles\Petrol_Station.dir\Station.cpp.s
 
-CMakeFiles/Petrol_Station.dir/car.cpp.obj: CMakeFiles/Petrol_Station.dir/flags.make
-CMakeFiles/Petrol_Station.dir/car.cpp.obj: ../car.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Petrol_Station.dir/car.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Petrol_Station.dir\car.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\car.cpp
-
-CMakeFiles/Petrol_Station.dir/car.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Petrol_Station.dir/car.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\car.cpp > CMakeFiles\Petrol_Station.dir\car.cpp.i
-
-CMakeFiles/Petrol_Station.dir/car.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Petrol_Station.dir/car.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-03\day-03\Petrol_Station\car.cpp -o CMakeFiles\Petrol_Station.dir\car.cpp.s
-
 # Object files for target Petrol_Station
 Petrol_Station_OBJECTS = \
+"CMakeFiles/Petrol_Station.dir/car.cpp.obj" \
 "CMakeFiles/Petrol_Station.dir/main.cpp.obj" \
-"CMakeFiles/Petrol_Station.dir/Station.cpp.obj" \
-"CMakeFiles/Petrol_Station.dir/car.cpp.obj"
+"CMakeFiles/Petrol_Station.dir/Station.cpp.obj"
 
 # External object files for target Petrol_Station
 Petrol_Station_EXTERNAL_OBJECTS =
 
+Petrol_Station.exe: CMakeFiles/Petrol_Station.dir/car.cpp.obj
 Petrol_Station.exe: CMakeFiles/Petrol_Station.dir/main.cpp.obj
 Petrol_Station.exe: CMakeFiles/Petrol_Station.dir/Station.cpp.obj
-Petrol_Station.exe: CMakeFiles/Petrol_Station.dir/car.cpp.obj
 Petrol_Station.exe: CMakeFiles/Petrol_Station.dir/build.make
 Petrol_Station.exe: CMakeFiles/Petrol_Station.dir/linklibs.rsp
 Petrol_Station.exe: CMakeFiles/Petrol_Station.dir/objects1.rsp

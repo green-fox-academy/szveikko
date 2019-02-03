@@ -10,11 +10,27 @@ C:/Users/veikk/greenfox/greenfox/week-03/day-02/BlogPost/BlogPost.h
 string
 -
 
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/BlogPost/blog.h
+iostream
+-
+string
+-
+vector
+-
+BlogPost.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/BlogPost/BlogPost.h
+
 C:/Users/veikk/greenfox/greenfox/week-03/day-02/BlogPost/main.cpp
 iostream
 -
 BlogPost.h
 C:/Users/veikk/greenfox/greenfox/week-03/day-02/BlogPost/BlogPost.h
+blog.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/BlogPost/blog.h
 string
+-
+vector
+-
+list
 -
 

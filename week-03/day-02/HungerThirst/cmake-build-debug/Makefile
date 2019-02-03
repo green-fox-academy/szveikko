@@ -149,6 +149,33 @@ Animal.cpp.s:
 	$(MAKE) -f CMakeFiles\HungerThirst.dir\build.make CMakeFiles/HungerThirst.dir/Animal.cpp.s
 .PHONY : Animal.cpp.s
 
+farm.obj: farm.cpp.obj
+
+.PHONY : farm.obj
+
+# target to build an object file
+farm.cpp.obj:
+	$(MAKE) -f CMakeFiles\HungerThirst.dir\build.make CMakeFiles/HungerThirst.dir/farm.cpp.obj
+.PHONY : farm.cpp.obj
+
+farm.i: farm.cpp.i
+
+.PHONY : farm.i
+
+# target to preprocess a source file
+farm.cpp.i:
+	$(MAKE) -f CMakeFiles\HungerThirst.dir\build.make CMakeFiles/HungerThirst.dir/farm.cpp.i
+.PHONY : farm.cpp.i
+
+farm.s: farm.cpp.s
+
+.PHONY : farm.s
+
+# target to generate assembly for a file
+farm.cpp.s:
+	$(MAKE) -f CMakeFiles\HungerThirst.dir\build.make CMakeFiles/HungerThirst.dir/farm.cpp.s
+.PHONY : farm.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -188,6 +215,9 @@ help:
 	@echo ... Animal.obj
 	@echo ... Animal.i
 	@echo ... Animal.s
+	@echo ... farm.obj
+	@echo ... farm.i
+	@echo ... farm.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

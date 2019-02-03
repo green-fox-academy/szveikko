@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-03/Petrol_Station/Station.h
+car.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-03/Petrol_Station/car.h
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-03/Petrol_Station/car.cpp
+Station.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-03/Petrol_Station/Station.h
+car.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-03/Petrol_Station/car.h
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-03/Petrol_Station/car.h
+Station.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-03/Petrol_Station/Station.h
+

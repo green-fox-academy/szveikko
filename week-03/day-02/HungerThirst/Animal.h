@@ -8,11 +8,11 @@
 
 class Animal {
 public:
-    Animal (int thirst, int hunger);
-    void eat (int one);
-    void drink (int one);
-    void play (int one, int one1);
-    void current (int num, int num1);
+    Animal ();
+    void eat ();
+    void drink ();
+    void play ();
+    void current ();
     int thirst_;
     int hunger_;
 private:

@@ -6,15 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/Sharpie.cpp
-Sharpie.h
-C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/Sharpie.h
-iostream
--
-
 C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/Sharpie.h
 string
 -
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/SharpieSet.cpp
+SharpieSet.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/SharpieSet.h
+
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/SharpieSet.h
+vector
+-
+Sharpie.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/Sharpie.h
 
 C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/main.cpp
 iostream
@@ -23,4 +27,6 @@ string
 -
 Sharpie.h
 C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/Sharpie.h
+SharpieSet.h
+C:/Users/veikk/greenfox/greenfox/week-03/day-02/Sharpie/SharpieSet.h
 

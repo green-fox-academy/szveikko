@@ -149,6 +149,33 @@ Sharpie.cpp.s:
 	$(MAKE) -f CMakeFiles\Sharpie.dir\build.make CMakeFiles/Sharpie.dir/Sharpie.cpp.s
 .PHONY : Sharpie.cpp.s
 
+SharpieSet.obj: SharpieSet.cpp.obj
+
+.PHONY : SharpieSet.obj
+
+# target to build an object file
+SharpieSet.cpp.obj:
+	$(MAKE) -f CMakeFiles\Sharpie.dir\build.make CMakeFiles/Sharpie.dir/SharpieSet.cpp.obj
+.PHONY : SharpieSet.cpp.obj
+
+SharpieSet.i: SharpieSet.cpp.i
+
+.PHONY : SharpieSet.i
+
+# target to preprocess a source file
+SharpieSet.cpp.i:
+	$(MAKE) -f CMakeFiles\Sharpie.dir\build.make CMakeFiles/Sharpie.dir/SharpieSet.cpp.i
+.PHONY : SharpieSet.cpp.i
+
+SharpieSet.s: SharpieSet.cpp.s
+
+.PHONY : SharpieSet.s
+
+# target to generate assembly for a file
+SharpieSet.cpp.s:
+	$(MAKE) -f CMakeFiles\Sharpie.dir\build.make CMakeFiles/Sharpie.dir/SharpieSet.cpp.s
+.PHONY : SharpieSet.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -188,6 +215,9 @@ help:
 	@echo ... Sharpie.obj
 	@echo ... Sharpie.i
 	@echo ... Sharpie.s
+	@echo ... SharpieSet.obj
+	@echo ... SharpieSet.i
+	@echo ... SharpieSet.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

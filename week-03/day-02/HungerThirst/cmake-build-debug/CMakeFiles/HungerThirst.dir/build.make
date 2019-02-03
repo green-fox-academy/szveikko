@@ -56,22 +56,10 @@ include CMakeFiles/HungerThirst.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/HungerThirst.dir/flags.make
 
-CMakeFiles/HungerThirst.dir/main.cpp.obj: CMakeFiles/HungerThirst.dir/flags.make
-CMakeFiles/HungerThirst.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HungerThirst.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HungerThirst.dir\main.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\main.cpp
-
-CMakeFiles/HungerThirst.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HungerThirst.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\main.cpp > CMakeFiles\HungerThirst.dir\main.cpp.i
-
-CMakeFiles/HungerThirst.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HungerThirst.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\main.cpp -o CMakeFiles\HungerThirst.dir\main.cpp.s
-
 CMakeFiles/HungerThirst.dir/Animal.cpp.obj: CMakeFiles/HungerThirst.dir/flags.make
+CMakeFiles/HungerThirst.dir/Animal.cpp.obj: CMakeFiles/HungerThirst.dir/includes_CXX.rsp
 CMakeFiles/HungerThirst.dir/Animal.cpp.obj: ../Animal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/HungerThirst.dir/Animal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HungerThirst.dir/Animal.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HungerThirst.dir\Animal.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\Animal.cpp
 
 CMakeFiles/HungerThirst.dir/Animal.cpp.i: cmake_force
@@ -82,21 +70,51 @@ CMakeFiles/HungerThirst.dir/Animal.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HungerThirst.dir/Animal.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\Animal.cpp -o CMakeFiles\HungerThirst.dir\Animal.cpp.s
 
+CMakeFiles/HungerThirst.dir/farm.cpp.obj: CMakeFiles/HungerThirst.dir/flags.make
+CMakeFiles/HungerThirst.dir/farm.cpp.obj: CMakeFiles/HungerThirst.dir/includes_CXX.rsp
+CMakeFiles/HungerThirst.dir/farm.cpp.obj: ../farm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/HungerThirst.dir/farm.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HungerThirst.dir\farm.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\farm.cpp
+
+CMakeFiles/HungerThirst.dir/farm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HungerThirst.dir/farm.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\farm.cpp > CMakeFiles\HungerThirst.dir\farm.cpp.i
+
+CMakeFiles/HungerThirst.dir/farm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HungerThirst.dir/farm.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\farm.cpp -o CMakeFiles\HungerThirst.dir\farm.cpp.s
+
+CMakeFiles/HungerThirst.dir/main.cpp.obj: CMakeFiles/HungerThirst.dir/flags.make
+CMakeFiles/HungerThirst.dir/main.cpp.obj: CMakeFiles/HungerThirst.dir/includes_CXX.rsp
+CMakeFiles/HungerThirst.dir/main.cpp.obj: ../main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/HungerThirst.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HungerThirst.dir\main.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\main.cpp
+
+CMakeFiles/HungerThirst.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HungerThirst.dir/main.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\main.cpp > CMakeFiles\HungerThirst.dir\main.cpp.i
+
+CMakeFiles/HungerThirst.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HungerThirst.dir/main.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\main.cpp -o CMakeFiles\HungerThirst.dir\main.cpp.s
+
 # Object files for target HungerThirst
 HungerThirst_OBJECTS = \
-"CMakeFiles/HungerThirst.dir/main.cpp.obj" \
-"CMakeFiles/HungerThirst.dir/Animal.cpp.obj"
+"CMakeFiles/HungerThirst.dir/Animal.cpp.obj" \
+"CMakeFiles/HungerThirst.dir/farm.cpp.obj" \
+"CMakeFiles/HungerThirst.dir/main.cpp.obj"
 
 # External object files for target HungerThirst
 HungerThirst_EXTERNAL_OBJECTS =
 
-HungerThirst.exe: CMakeFiles/HungerThirst.dir/main.cpp.obj
 HungerThirst.exe: CMakeFiles/HungerThirst.dir/Animal.cpp.obj
+HungerThirst.exe: CMakeFiles/HungerThirst.dir/farm.cpp.obj
+HungerThirst.exe: CMakeFiles/HungerThirst.dir/main.cpp.obj
 HungerThirst.exe: CMakeFiles/HungerThirst.dir/build.make
 HungerThirst.exe: CMakeFiles/HungerThirst.dir/linklibs.rsp
 HungerThirst.exe: CMakeFiles/HungerThirst.dir/objects1.rsp
 HungerThirst.exe: CMakeFiles/HungerThirst.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable HungerThirst.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\HungerThirst\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable HungerThirst.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\HungerThirst.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

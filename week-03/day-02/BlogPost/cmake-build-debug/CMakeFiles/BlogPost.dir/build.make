@@ -56,9 +56,38 @@ include CMakeFiles/BlogPost.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/BlogPost.dir/flags.make
 
+CMakeFiles/BlogPost.dir/BlogPost.cpp.obj: CMakeFiles/BlogPost.dir/flags.make
+CMakeFiles/BlogPost.dir/BlogPost.cpp.obj: CMakeFiles/BlogPost.dir/includes_CXX.rsp
+CMakeFiles/BlogPost.dir/BlogPost.cpp.obj: ../BlogPost.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\BlogPost\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BlogPost.dir/BlogPost.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BlogPost.dir\BlogPost.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-03\day-02\BlogPost\BlogPost.cpp
+
+CMakeFiles/BlogPost.dir/BlogPost.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BlogPost.dir/BlogPost.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-03\day-02\BlogPost\BlogPost.cpp > CMakeFiles\BlogPost.dir\BlogPost.cpp.i
+
+CMakeFiles/BlogPost.dir/BlogPost.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BlogPost.dir/BlogPost.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-03\day-02\BlogPost\BlogPost.cpp -o CMakeFiles\BlogPost.dir\BlogPost.cpp.s
+
+CMakeFiles/BlogPost.dir/blog.cpp.obj: CMakeFiles/BlogPost.dir/flags.make
+CMakeFiles/BlogPost.dir/blog.cpp.obj: CMakeFiles/BlogPost.dir/includes_CXX.rsp
+CMakeFiles/BlogPost.dir/blog.cpp.obj: ../blog.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\BlogPost\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/BlogPost.dir/blog.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BlogPost.dir\blog.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-03\day-02\BlogPost\blog.cpp
+
+CMakeFiles/BlogPost.dir/blog.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BlogPost.dir/blog.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-03\day-02\BlogPost\blog.cpp > CMakeFiles\BlogPost.dir\blog.cpp.i
+
+CMakeFiles/BlogPost.dir/blog.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BlogPost.dir/blog.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-03\day-02\BlogPost\blog.cpp -o CMakeFiles\BlogPost.dir\blog.cpp.s
+
 CMakeFiles/BlogPost.dir/main.cpp.obj: CMakeFiles/BlogPost.dir/flags.make
+CMakeFiles/BlogPost.dir/main.cpp.obj: CMakeFiles/BlogPost.dir/includes_CXX.rsp
 CMakeFiles/BlogPost.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\BlogPost\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BlogPost.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\BlogPost\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/BlogPost.dir/main.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BlogPost.dir\main.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-03\day-02\BlogPost\main.cpp
 
 CMakeFiles/BlogPost.dir/main.cpp.i: cmake_force
@@ -71,17 +100,21 @@ CMakeFiles/BlogPost.dir/main.cpp.s: cmake_force
 
 # Object files for target BlogPost
 BlogPost_OBJECTS = \
+"CMakeFiles/BlogPost.dir/BlogPost.cpp.obj" \
+"CMakeFiles/BlogPost.dir/blog.cpp.obj" \
 "CMakeFiles/BlogPost.dir/main.cpp.obj"
 
 # External object files for target BlogPost
 BlogPost_EXTERNAL_OBJECTS =
 
+BlogPost.exe: CMakeFiles/BlogPost.dir/BlogPost.cpp.obj
+BlogPost.exe: CMakeFiles/BlogPost.dir/blog.cpp.obj
 BlogPost.exe: CMakeFiles/BlogPost.dir/main.cpp.obj
 BlogPost.exe: CMakeFiles/BlogPost.dir/build.make
 BlogPost.exe: CMakeFiles/BlogPost.dir/linklibs.rsp
 BlogPost.exe: CMakeFiles/BlogPost.dir/objects1.rsp
 BlogPost.exe: CMakeFiles/BlogPost.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\BlogPost\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable BlogPost.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\veikk\greenfox\greenfox\week-03\day-02\BlogPost\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable BlogPost.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\BlogPost.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

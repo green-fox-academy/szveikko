@@ -12,5 +12,5 @@ Sharpie::Sharpie(std::string color, float width, float inkamount) {
 
 void Sharpie::use(int useOfInk) {
     inkamount_ -= useOfInk;
-    std::cout << "Your sharpie has " << inkamount_ << "% ink left.";
+    std::cout << "Your sharpie has " << inkamount_ << "% ink left." << std::endl;
 }

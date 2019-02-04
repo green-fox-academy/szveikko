@@ -6,6 +6,7 @@ Ship pirateShip;
 pirateShip.lastDayOnTheShip();
 pirateShip.getPoorPirates();
 pirateShip.getGolds();
+pirateShip.newCaptain();
 pirateShip.prepareForBattle();
 pirateShip.prepareForBattle();
 pirateShip.getGolds();

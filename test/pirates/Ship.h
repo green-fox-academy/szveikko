@@ -22,6 +22,9 @@ public:
 
     void prepareForBattle();
 
+    void newCaptain();
+
+    void recruit();
 };
 
 

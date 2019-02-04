@@ -24,6 +24,9 @@ public:
     void makeCaptain();
 
     void legCheck();
+
+    void demoteCaptain();
+
 };
 
 

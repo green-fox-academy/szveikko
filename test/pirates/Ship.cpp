@@ -51,3 +51,15 @@ void Ship::prepareForBattle() {
     }
     lastDayOnTheShip();
 }
+
+void Ship::newCaptain(){
+    piratesOfTheShip[0].makeCaptain();
+    int size = piratesOfTheShip.size();
+    for (int i = 1; i < size; i++){
+        piratesOfTheShip[i].demoteCaptain();
+    }
+}
+
+void Ship::recruit(){
+    piratesOfTheShip[49] = Pirates();
+}

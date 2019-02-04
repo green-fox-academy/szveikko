@@ -42,3 +42,8 @@ void Pirates::legCheck() {
         std::cout << "Hello i'm Jack, and i have legs heh. And also " << _goldAmount << " gold" << std::endl;
     }
 }
+
+void Pirates::demoteCaptain() {
+    _isCaptain = false;
+}
+

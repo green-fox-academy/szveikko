@@ -3,4 +3,5 @@ project(symmetricMatrix)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(symmetricMatrix main.cpp)
+add_executable(symmetricMatrix
+        main.cpp)

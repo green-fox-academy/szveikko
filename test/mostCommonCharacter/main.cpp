@@ -20,6 +20,7 @@ char countChars (std::string filename){
     myFile.open (filename)
     if(myFile.is_open()){
 
+
     }else{
         std::cout << "File: " << filename << " - does not exist." << std::endl;
     }

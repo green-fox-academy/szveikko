@@ -1,3 +1,3 @@
-C:/Users/veikk/greenfox/greenfox/test/exam-trial-basics/symmetricMatrix/cmake-build-debug/CMakeFiles/symmetricMatrix.dir
-C:/Users/veikk/greenfox/greenfox/test/exam-trial-basics/symmetricMatrix/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/veikk/greenfox/greenfox/test/exam-trial-basics/symmetricMatrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/veikk/greenfox/greenfox/test/symmetricMatrix/cmake-build-debug/CMakeFiles/symmetricMatrix.dir
+C:/Users/veikk/greenfox/greenfox/test/symmetricMatrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/veikk/greenfox/greenfox/test/symmetricMatrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

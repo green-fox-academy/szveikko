@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/veikk/greenfox/greenfox/test/exam-trial-basics/mostCommonCharacter
+# Install script for directory: C:/Users/veikk/greenfox/greenfox/test/mostCommonCharacter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/veikk/greenfox/greenfox/test/exam-trial-basics/mostCommonCharacter/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/veikk/greenfox/greenfox/test/mostCommonCharacter/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

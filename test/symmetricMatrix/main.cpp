@@ -15,8 +15,6 @@ int main() {
 
         }
     }
-    //isSymmetric(n, (int*)array[n][n]);
-    //isSymmetric(n, array[n][n]);
     return 0;
 }
 

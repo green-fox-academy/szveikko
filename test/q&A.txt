@@ -1,0 +1,5 @@
+How can you generate a random number?
+We assign the random number, in a way that its dependant from the current time (which is millions of seconds, allways getting bigger and bigger, thus eliminating the chances to repeat similiar endings). This is teh base of making random numbers, any other changes on the code, or the wanted output is dependant on other needs.
+
+What is a ternary operator? How does it work?
+it is marked as "?" and it appears as the following. definition ? statement : statement2; The definition will become true, with either statement, or statement2, but not with both.L

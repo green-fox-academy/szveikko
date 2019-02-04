@@ -3,4 +3,5 @@ project(mostCommonCharacter)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(mostCommonCharacter main.cpp)
+add_executable(mostCommonCharacter
+        main.cpp)

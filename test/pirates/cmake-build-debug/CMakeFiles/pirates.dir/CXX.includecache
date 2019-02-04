@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/veikk/greenfox/greenfox/test/pirates/Ship.cpp
+iostream
+-
+Ship.h
+C:/Users/veikk/greenfox/greenfox/test/pirates/Ship.h
+
+C:/Users/veikk/greenfox/greenfox/test/pirates/Ship.h
+pirates.h
+C:/Users/veikk/greenfox/greenfox/test/pirates/pirates.h
+array
+-
+
+C:/Users/veikk/greenfox/greenfox/test/pirates/pirates.h
+

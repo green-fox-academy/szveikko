@@ -24,9 +24,9 @@ public:
     int _age;
     Gender _gender;
 
-    void introduce();
+    virtual void introduce();
 
-    void getGoal();
+    virtual void getGoal();
 
     void setGoal();
 

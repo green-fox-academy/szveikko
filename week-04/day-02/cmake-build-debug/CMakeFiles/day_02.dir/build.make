@@ -82,21 +82,81 @@ CMakeFiles/day_02.dir/person.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/day_02.dir/person.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-04\day-02\person.cpp -o CMakeFiles\day_02.dir\person.cpp.s
 
+CMakeFiles/day_02.dir/student.cpp.obj: CMakeFiles/day_02.dir/flags.make
+CMakeFiles/day_02.dir/student.cpp.obj: ../student.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-02\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/day_02.dir/student.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\day_02.dir\student.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-04\day-02\student.cpp
+
+CMakeFiles/day_02.dir/student.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/day_02.dir/student.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-04\day-02\student.cpp > CMakeFiles\day_02.dir\student.cpp.i
+
+CMakeFiles/day_02.dir/student.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/day_02.dir/student.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-04\day-02\student.cpp -o CMakeFiles\day_02.dir\student.cpp.s
+
+CMakeFiles/day_02.dir/mentor.cpp.obj: CMakeFiles/day_02.dir/flags.make
+CMakeFiles/day_02.dir/mentor.cpp.obj: ../mentor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-02\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/day_02.dir/mentor.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\day_02.dir\mentor.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-04\day-02\mentor.cpp
+
+CMakeFiles/day_02.dir/mentor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/day_02.dir/mentor.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-04\day-02\mentor.cpp > CMakeFiles\day_02.dir\mentor.cpp.i
+
+CMakeFiles/day_02.dir/mentor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/day_02.dir/mentor.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-04\day-02\mentor.cpp -o CMakeFiles\day_02.dir\mentor.cpp.s
+
+CMakeFiles/day_02.dir/sponsor.cpp.obj: CMakeFiles/day_02.dir/flags.make
+CMakeFiles/day_02.dir/sponsor.cpp.obj: ../sponsor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-02\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/day_02.dir/sponsor.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\day_02.dir\sponsor.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-04\day-02\sponsor.cpp
+
+CMakeFiles/day_02.dir/sponsor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/day_02.dir/sponsor.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-04\day-02\sponsor.cpp > CMakeFiles\day_02.dir\sponsor.cpp.i
+
+CMakeFiles/day_02.dir/sponsor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/day_02.dir/sponsor.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-04\day-02\sponsor.cpp -o CMakeFiles\day_02.dir\sponsor.cpp.s
+
+CMakeFiles/day_02.dir/cohort.cpp.obj: CMakeFiles/day_02.dir/flags.make
+CMakeFiles/day_02.dir/cohort.cpp.obj: ../cohort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-02\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/day_02.dir/cohort.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\day_02.dir\cohort.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-04\day-02\cohort.cpp
+
+CMakeFiles/day_02.dir/cohort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/day_02.dir/cohort.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-04\day-02\cohort.cpp > CMakeFiles\day_02.dir\cohort.cpp.i
+
+CMakeFiles/day_02.dir/cohort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/day_02.dir/cohort.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-04\day-02\cohort.cpp -o CMakeFiles\day_02.dir\cohort.cpp.s
+
 # Object files for target day_02
 day_02_OBJECTS = \
 "CMakeFiles/day_02.dir/main.cpp.obj" \
-"CMakeFiles/day_02.dir/person.cpp.obj"
+"CMakeFiles/day_02.dir/person.cpp.obj" \
+"CMakeFiles/day_02.dir/student.cpp.obj" \
+"CMakeFiles/day_02.dir/mentor.cpp.obj" \
+"CMakeFiles/day_02.dir/sponsor.cpp.obj" \
+"CMakeFiles/day_02.dir/cohort.cpp.obj"
 
 # External object files for target day_02
 day_02_EXTERNAL_OBJECTS =
 
 day_02.exe: CMakeFiles/day_02.dir/main.cpp.obj
 day_02.exe: CMakeFiles/day_02.dir/person.cpp.obj
+day_02.exe: CMakeFiles/day_02.dir/student.cpp.obj
+day_02.exe: CMakeFiles/day_02.dir/mentor.cpp.obj
+day_02.exe: CMakeFiles/day_02.dir/sponsor.cpp.obj
+day_02.exe: CMakeFiles/day_02.dir/cohort.cpp.obj
 day_02.exe: CMakeFiles/day_02.dir/build.make
 day_02.exe: CMakeFiles/day_02.dir/linklibs.rsp
 day_02.exe: CMakeFiles/day_02.dir/objects1.rsp
 day_02.exe: CMakeFiles/day_02.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-02\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable day_02.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-02\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable day_02.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\day_02.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

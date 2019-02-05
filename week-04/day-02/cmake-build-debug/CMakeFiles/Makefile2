@@ -70,7 +70,7 @@ CMAKE_BINARY_DIR = C:\Users\veikk\greenfox\greenfox\week-04\day-02\cmake-build-d
 CMakeFiles/day_02.dir/all:
 	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/depend
 	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-02\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target day_02"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-02\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target day_02"
 .PHONY : CMakeFiles/day_02.dir/all
 
 # Include target in all.
@@ -80,7 +80,7 @@ all: CMakeFiles/day_02.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/day_02.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\veikk\greenfox\greenfox\week-04\day-02\cmake-build-debug\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\veikk\greenfox\greenfox\week-04\day-02\cmake-build-debug\CMakeFiles 7
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/day_02.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\veikk\greenfox\greenfox\week-04\day-02\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/day_02.dir/rule

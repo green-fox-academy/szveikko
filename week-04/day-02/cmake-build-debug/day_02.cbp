@@ -80,13 +80,37 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-02/cohort.cpp">
+			<Option target="day_02"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-02/cohort.h">
+			<Option target="day_02"/>
+		</Unit>
 		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-02/main.cpp">
+			<Option target="day_02"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-02/mentor.cpp">
+			<Option target="day_02"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-02/mentor.h">
 			<Option target="day_02"/>
 		</Unit>
 		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-02/person.cpp">
 			<Option target="day_02"/>
 		</Unit>
 		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-02/person.h">
+			<Option target="day_02"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-02/sponsor.cpp">
+			<Option target="day_02"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-02/sponsor.h">
+			<Option target="day_02"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-02/student.cpp">
+			<Option target="day_02"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-02/student.h">
 			<Option target="day_02"/>
 		</Unit>
 		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-02/CMakeLists.txt">

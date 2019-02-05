@@ -4,11 +4,11 @@
 
 #include "person.h"
 
-Person::Person(){
+Person::Person() {
     _name = "Jane Doe";
     _age = 69;
     _gender = Gender::Female;
-    _goal = "I dont have goals."
+    _goal = "I dont have goals.";
 }
 
 Person::Person(std::string name, int age, Gender gender) {
@@ -21,7 +21,7 @@ void Person::getGoal() {
     std::cout << "My goal is: " << _goal << std::endl;
 }
 
-void Person::setGoal () {
+void Person::setGoal() {
     std::cout << "What is your goal?";
     std::string goal;
     std::cin >> goal;
@@ -35,12 +35,12 @@ void Person::introduce() {
     std::cout << "." << std::endl;
 }
 
-void Person::writeGender(){
-    if(_gender == Male){
+void Person::writeGender() {
+    if (_gender == Male) {
         std::cout << "Male";
-    }else if(_gender == Female){
+    } else if (_gender == Female) {
         std::cout << "Female";
-    }else{
-        std::cout << Other;
+    } else {
+        std::cout << "transgender";
     }
 }

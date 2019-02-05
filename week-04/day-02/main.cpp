@@ -1,6 +1,22 @@
 #include <iostream>
+#include "mentor.h"
+#include "cohort.h"
+#include "student.h"
+#include "sponsor.h"
+
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+std::string cohortName = "GreenFox";
+Cohort theCohort(cohortName);
+Student student1;
+theCohort.addStudent(student1);
+Mentor mentor1;
+theCohort.addMentor(mentor1);
+theCohort.info();
+student1.introduce();
+mentor1.introduce();
+Sponsor sponsor1;
+sponsor1.introduce();
+
     return 0;
 }

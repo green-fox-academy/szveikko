@@ -122,6 +122,33 @@ day_02/fast:
 	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/build
 .PHONY : day_02/fast
 
+cohort.obj: cohort.cpp.obj
+
+.PHONY : cohort.obj
+
+# target to build an object file
+cohort.cpp.obj:
+	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/cohort.cpp.obj
+.PHONY : cohort.cpp.obj
+
+cohort.i: cohort.cpp.i
+
+.PHONY : cohort.i
+
+# target to preprocess a source file
+cohort.cpp.i:
+	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/cohort.cpp.i
+.PHONY : cohort.cpp.i
+
+cohort.s: cohort.cpp.s
+
+.PHONY : cohort.s
+
+# target to generate assembly for a file
+cohort.cpp.s:
+	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/cohort.cpp.s
+.PHONY : cohort.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -148,6 +175,33 @@ main.s: main.cpp.s
 main.cpp.s:
 	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/main.cpp.s
 .PHONY : main.cpp.s
+
+mentor.obj: mentor.cpp.obj
+
+.PHONY : mentor.obj
+
+# target to build an object file
+mentor.cpp.obj:
+	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/mentor.cpp.obj
+.PHONY : mentor.cpp.obj
+
+mentor.i: mentor.cpp.i
+
+.PHONY : mentor.i
+
+# target to preprocess a source file
+mentor.cpp.i:
+	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/mentor.cpp.i
+.PHONY : mentor.cpp.i
+
+mentor.s: mentor.cpp.s
+
+.PHONY : mentor.s
+
+# target to generate assembly for a file
+mentor.cpp.s:
+	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/mentor.cpp.s
+.PHONY : mentor.cpp.s
 
 person.obj: person.cpp.obj
 
@@ -176,6 +230,60 @@ person.cpp.s:
 	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/person.cpp.s
 .PHONY : person.cpp.s
 
+sponsor.obj: sponsor.cpp.obj
+
+.PHONY : sponsor.obj
+
+# target to build an object file
+sponsor.cpp.obj:
+	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/sponsor.cpp.obj
+.PHONY : sponsor.cpp.obj
+
+sponsor.i: sponsor.cpp.i
+
+.PHONY : sponsor.i
+
+# target to preprocess a source file
+sponsor.cpp.i:
+	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/sponsor.cpp.i
+.PHONY : sponsor.cpp.i
+
+sponsor.s: sponsor.cpp.s
+
+.PHONY : sponsor.s
+
+# target to generate assembly for a file
+sponsor.cpp.s:
+	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/sponsor.cpp.s
+.PHONY : sponsor.cpp.s
+
+student.obj: student.cpp.obj
+
+.PHONY : student.obj
+
+# target to build an object file
+student.cpp.obj:
+	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/student.cpp.obj
+.PHONY : student.cpp.obj
+
+student.i: student.cpp.i
+
+.PHONY : student.i
+
+# target to preprocess a source file
+student.cpp.i:
+	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/student.cpp.i
+.PHONY : student.cpp.i
+
+student.s: student.cpp.s
+
+.PHONY : student.s
+
+# target to generate assembly for a file
+student.cpp.s:
+	$(MAKE) -f CMakeFiles\day_02.dir\build.make CMakeFiles/day_02.dir/student.cpp.s
+.PHONY : student.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -185,12 +293,24 @@ help:
 	@echo ... edit_cache
 	@echo ... day_02
 	@echo ... rebuild_cache
+	@echo ... cohort.obj
+	@echo ... cohort.i
+	@echo ... cohort.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... mentor.obj
+	@echo ... mentor.i
+	@echo ... mentor.s
 	@echo ... person.obj
 	@echo ... person.i
 	@echo ... person.s
+	@echo ... sponsor.obj
+	@echo ... sponsor.i
+	@echo ... sponsor.s
+	@echo ... student.obj
+	@echo ... student.i
+	@echo ... student.s
 .PHONY : help
 
 

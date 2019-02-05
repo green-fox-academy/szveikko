@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-02/Garden/flower.h
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-02/Garden/garden.cpp
+garden.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-02/Garden/garden.h
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-02/Garden/garden.h
+tree.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-02/Garden/tree.h
+flower.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-02/Garden/flower.h
+vector
+-
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-02/Garden/tree.h
+

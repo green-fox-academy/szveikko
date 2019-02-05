@@ -19,7 +19,10 @@ public:
 
     float waterNeededInTotal();
 
-    void waterThePlants();
+    int howManyNeedsWaterInTotal();
+
+    void waterThePlants(int inputAmountOfWater);
+
 
 };
 

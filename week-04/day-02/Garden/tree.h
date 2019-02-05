@@ -9,7 +9,7 @@
 class Tree {
 public:
     Tree();
-    int _waterTree;
+    float _waterTree;
     bool _treeNeedsWater = (_waterTree < 10);
 
     float _howMuchWaterIsMissingFromTree();

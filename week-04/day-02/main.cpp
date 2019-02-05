@@ -17,6 +17,13 @@ student1.introduce();
 mentor1.introduce();
 Sponsor sponsor1;
 sponsor1.introduce();
+Person example;
+std::string persname = "Joe";
+int joeage = 12;
+Gender joegender = Gender::Male;
+Person unique(persname, joeage, joegender);
+example.introduce();
+unique.introduce();
 
     return 0;
 }

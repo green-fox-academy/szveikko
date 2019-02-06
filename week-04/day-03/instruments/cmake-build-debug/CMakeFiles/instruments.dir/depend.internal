@@ -15,7 +15,12 @@ CMakeFiles/instruments.dir/instrument.cpp.obj
  C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/instrument.cpp
  C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/instrument.h
 CMakeFiles/instruments.dir/main.cpp.obj
+ C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/bassGuitar.h
+ C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/electricGuitar.h
+ C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/instrument.h
  C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/main.cpp
+ C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/stringedInstrument.h
+ C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/violin.h
 CMakeFiles/instruments.dir/stringedInstrument.cpp.obj
  C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/instrument.h
  C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/stringedInstrument.cpp

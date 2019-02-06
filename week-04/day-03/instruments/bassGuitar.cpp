@@ -16,7 +16,7 @@ void BassGuitar::sound() {
 
 void BassGuitar::play() {
     std::cout << _name << ", a " << _numberOfStrings
-              << "-stringed instrument, that goes ";
+              << " stringed instrument, that goes ";
     sound();
     std::cout << "." << std::endl;
 }

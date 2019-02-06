@@ -8,9 +8,11 @@
 
 #include "stringedInstrument.h"
 
-class ElectricGuitar: public StringedInstrument{
+class ElectricGuitar : public StringedInstrument {
 public:
     ElectricGuitar();
+
+    ElectricGuitar(int input);
 
     void play();
 

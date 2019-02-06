@@ -14,7 +14,12 @@ CMakeFiles/instruments.dir/electricGuitar.cpp.obj: ../stringedInstrument.h
 CMakeFiles/instruments.dir/instrument.cpp.obj: ../instrument.cpp
 CMakeFiles/instruments.dir/instrument.cpp.obj: ../instrument.h
 
+CMakeFiles/instruments.dir/main.cpp.obj: ../bassGuitar.h
+CMakeFiles/instruments.dir/main.cpp.obj: ../electricGuitar.h
+CMakeFiles/instruments.dir/main.cpp.obj: ../instrument.h
 CMakeFiles/instruments.dir/main.cpp.obj: ../main.cpp
+CMakeFiles/instruments.dir/main.cpp.obj: ../stringedInstrument.h
+CMakeFiles/instruments.dir/main.cpp.obj: ../violin.h
 
 CMakeFiles/instruments.dir/stringedInstrument.cpp.obj: ../instrument.h
 CMakeFiles/instruments.dir/stringedInstrument.cpp.obj: ../stringedInstrument.cpp

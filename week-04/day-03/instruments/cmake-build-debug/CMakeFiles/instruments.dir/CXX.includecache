@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/bassGuitar.cpp
-bassGuitar.h
-C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/bassGuitar.h
-
 C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/bassGuitar.h
 stringedInstrument.h
 C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/stringedInstrument.h
@@ -22,10 +18,6 @@ C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/electricGuitar.h
 stringedInstrument.h
 C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/stringedInstrument.h
 
-C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/instrument.cpp
-instrument.h
-C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/instrument.h
-
 C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/instrument.h
 iostream
 -
@@ -33,10 +25,12 @@ iostream
 C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/main.cpp
 iostream
 -
-
-C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/stringedInstrument.cpp
-stringedInstrument.h
-C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/stringedInstrument.h
+violin.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/violin.h
+electricGuitar.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/electricGuitar.h
+bassGuitar.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/bassGuitar.h
 
 C:/Users/veikk/greenfox/greenfox/week-04/day-03/instruments/stringedInstrument.h
 instrument.h

@@ -11,6 +11,8 @@ class Violin : public StringedInstrument {
 public:
     Violin();
 
+    Violin(int input);
+
     void play();
 
     void sound();

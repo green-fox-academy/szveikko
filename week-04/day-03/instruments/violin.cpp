@@ -5,8 +5,13 @@
 #include "violin.h"
 
 Violin::Violin() {
-    _name = "violin";
+    _name = "Violin";
     _numberOfStrings = 4;
+}
+
+Violin::Violin(int input) {
+    _numberOfStrings = input;
+    _name = "Violin";
 }
 
 void Violin::sound() {

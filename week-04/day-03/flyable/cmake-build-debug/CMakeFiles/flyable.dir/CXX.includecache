@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/animal.h
+iostream
+-
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/bird.h
+animal.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/animal.h
+flyable.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/flyable.h
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/flyable.h
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/helicopter.h
+vechile.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/vechile.h
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/main.cpp
+iostream
+-
+vechile.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/vechile.h
+bird.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/bird.h
+helicopter.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/helicopter.h
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/vechile.h
+iostream
+-
+flyable.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/flyable.h
+

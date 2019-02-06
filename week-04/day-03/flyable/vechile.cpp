@@ -14,11 +14,15 @@ Vehicle::Vehicle(std::string name) {
     _inAir = false;
 }
 
-void Vehicle::_nineileven() {
+void Vehicle::_nineEleven() {
     if(_inAir){
         std::cout << "Towers destroyed, casualties: 2" << std::endl;
         _bushDidIt();
+    }else{
+        std::cout << "Need to take off before completing the holy quest." << std::endl;
     }
+    _inAir = false;
+
 }
 
 void Vehicle::_bushDidIt() {
@@ -28,15 +32,17 @@ void Vehicle::_bushDidIt() {
 void Vehicle::fly() {
     if (_inAir) {
         std::cout << _name << "is flying fast." << std::endl;
+    }else{
+        std::cout << _name << " needs to take off before flying." << std::endl;
     }
 }
 
 void Vehicle::land() {
     _inAir = false;
-    std::cout << "Successfull landing" << std::endl;
+    std::cout << "Successful landing!" << std::endl;
 }
 
 void Vehicle::takeOff() {
     _inAir = true;
-    std::cout << "Successfull landing" << std::endl;
+    std::cout << "Successful take off!" << std::endl;
 }

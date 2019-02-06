@@ -88,31 +88,9 @@
       <change beforePath="$PROJECT_DIR$/../../day-02/Garden/cmake-build-debug/CMakeFiles/Garden.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-02/Garden/cmake-build-debug/CMakeFiles/Garden.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day-02/Garden/cmake-build-debug/Garden.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-02/Garden/cmake-build-debug/Garden.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day-02/Garden/garden.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-02/Garden/garden.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animalsInTheZoo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../animalsInTheZoo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animalsInTheZoo/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../animalsInTheZoo/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/animalsInTheZoo.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/animalsInTheZoo.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/animalsInTheZoo.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/animalsInTheZoo.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/animalsInTheZoo.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/animalsInTheZoo.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/animalsInTheZoo.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/animalsInTheZoo.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/animalsInTheZoo.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/animalsInTheZoo.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/animalsInTheZoo.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/animalsInTheZoo.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/animalsInTheZoo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../animalsInTheZoo/cmake-build-debug/animalsInTheZoo.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flyable.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flyable.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flyable.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flyable.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flyable.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flyable.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flyable.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flyable.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flyable.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flyable.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/flyable.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/flyable.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helicopter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/helicopter.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helicopter.h" beforeDir="false" afterPath="$PROJECT_DIR$/helicopter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vechile.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/vechile.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vechile.h" beforeDir="false" afterPath="$PROJECT_DIR$/vechile.h" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -134,20 +112,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flyable.h">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="153">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flyable.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bird.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="233">
+              <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -176,8 +166,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vechile.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            <state relative-caret-position="238">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -185,8 +175,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vechile.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="210">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               <folding>
                 <element signature="e#95#114#0" expanded="true" />
               </folding>
@@ -206,8 +196,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/helicopter.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="153">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -221,16 +211,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/flyable.h" />
-        <option value="$PROJECT_DIR$/vechile.cpp" />
-        <option value="$PROJECT_DIR$/helicopter.h" />
         <option value="$PROJECT_DIR$/helicopter.cpp" />
-        <option value="$PROJECT_DIR$/vechile.h" />
         <option value="$PROJECT_DIR$/cmake-build-debug/bird.cpp" />
         <option value="$PROJECT_DIR$/cmake-build-debug/bird.h" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/animal.h" />
         <option value="$PROJECT_DIR$/bird.h" />
         <option value="$PROJECT_DIR$/bird.cpp" />
+        <option value="$PROJECT_DIR$/helicopter.h" />
+        <option value="$PROJECT_DIR$/vechile.cpp" />
+        <option value="$PROJECT_DIR$/vechile.h" />
+        <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
   </component>
@@ -294,23 +285,24 @@
       <option name="presentableId" value="Default" />
       <updated>1549458687310</updated>
       <workItem from="1549458689042" duration="1915000" />
-      <workItem from="1549460628361" duration="693000" />
+      <workItem from="1549460628361" duration="1283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2608000" />
+    <option name="totallyTimeSpent" value="3198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28322148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28322148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -334,33 +326,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vechile.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding>
-            <element signature="e#95#114#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helicopter.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helicopter.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -388,6 +353,27 @@
     <entry file="file://$PROJECT_DIR$/animal.cpp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/bird.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helicopter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helicopter.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/animal.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -397,15 +383,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vechile.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        <state relative-caret-position="238">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flyable.h">
+    <entry file="file://$PROJECT_DIR$/vechile.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="210">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#95#114#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -419,10 +408,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bird.cpp">
+    <entry file="file://$PROJECT_DIR$/flyable.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

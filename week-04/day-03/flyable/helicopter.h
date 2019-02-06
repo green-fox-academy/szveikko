@@ -8,6 +8,7 @@
 #include "vechile.h"
 
 class Helicopter : public Vehicle {
+public:
     Helicopter();
 };
 

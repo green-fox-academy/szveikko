@@ -16,15 +16,17 @@ public:
 
     std::string _name;
 
-    void _nineileven();
-
-    void _bushDidIt();
+    void _nineEleven();
 
     void fly() override;
 
     void land() override;
 
     void takeOff() override;
+
+private:
+
+    void _bushDidIt();
 };
 
 

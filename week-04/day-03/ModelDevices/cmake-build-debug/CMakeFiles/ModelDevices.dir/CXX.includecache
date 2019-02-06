@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/scanner.cpp
+iostream
+-
+scanner.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/scanner.h
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/scanner.h
+

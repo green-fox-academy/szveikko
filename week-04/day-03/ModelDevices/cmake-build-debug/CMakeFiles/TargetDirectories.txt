@@ -1,0 +1,3 @@
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/cmake-build-debug/CMakeFiles/ModelDevices.dir
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/cmake-build-debug/CMakeFiles/edit_cache.dir

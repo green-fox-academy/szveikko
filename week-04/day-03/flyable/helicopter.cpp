@@ -3,3 +3,9 @@
 //
 
 #include "helicopter.h"
+
+Helicopter::Helicopter() {
+    _name = "Helicopter";
+    _inAir = false;
+
+}

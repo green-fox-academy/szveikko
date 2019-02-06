@@ -122,33 +122,6 @@ animalsInTheZoo/fast:
 	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/build
 .PHONY : animalsInTheZoo/fast
 
-animal.obj: animal.cpp.obj
-
-.PHONY : animal.obj
-
-# target to build an object file
-animal.cpp.obj:
-	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/animal.cpp.obj
-.PHONY : animal.cpp.obj
-
-animal.i: animal.cpp.i
-
-.PHONY : animal.i
-
-# target to preprocess a source file
-animal.cpp.i:
-	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/animal.cpp.i
-.PHONY : animal.cpp.i
-
-animal.s: animal.cpp.s
-
-.PHONY : animal.s
-
-# target to generate assembly for a file
-animal.cpp.s:
-	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/animal.cpp.s
-.PHONY : animal.cpp.s
-
 bird.obj: bird.cpp.obj
 
 .PHONY : bird.obj
@@ -176,87 +149,6 @@ bird.cpp.s:
 	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/bird.cpp.s
 .PHONY : bird.cpp.s
 
-main.obj: main.cpp.obj
-
-.PHONY : main.obj
-
-# target to build an object file
-main.cpp.obj:
-	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/main.cpp.obj
-.PHONY : main.cpp.obj
-
-main.i: main.cpp.i
-
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/main.cpp.s
-.PHONY : main.cpp.s
-
-mammal.obj: mammal.cpp.obj
-
-.PHONY : mammal.obj
-
-# target to build an object file
-mammal.cpp.obj:
-	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/mammal.cpp.obj
-.PHONY : mammal.cpp.obj
-
-mammal.i: mammal.cpp.i
-
-.PHONY : mammal.i
-
-# target to preprocess a source file
-mammal.cpp.i:
-	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/mammal.cpp.i
-.PHONY : mammal.cpp.i
-
-mammal.s: mammal.cpp.s
-
-.PHONY : mammal.s
-
-# target to generate assembly for a file
-mammal.cpp.s:
-	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/mammal.cpp.s
-.PHONY : mammal.cpp.s
-
-reptile.obj: reptile.cpp.obj
-
-.PHONY : reptile.obj
-
-# target to build an object file
-reptile.cpp.obj:
-	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/reptile.cpp.obj
-.PHONY : reptile.cpp.obj
-
-reptile.i: reptile.cpp.i
-
-.PHONY : reptile.i
-
-# target to preprocess a source file
-reptile.cpp.i:
-	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/reptile.cpp.i
-.PHONY : reptile.cpp.i
-
-reptile.s: reptile.cpp.s
-
-.PHONY : reptile.s
-
-# target to generate assembly for a file
-reptile.cpp.s:
-	$(MAKE) -f CMakeFiles\animalsInTheZoo.dir\build.make CMakeFiles/animalsInTheZoo.dir/reptile.cpp.s
-.PHONY : reptile.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -266,21 +158,9 @@ help:
 	@echo ... edit_cache
 	@echo ... animalsInTheZoo
 	@echo ... rebuild_cache
-	@echo ... animal.obj
-	@echo ... animal.i
-	@echo ... animal.s
 	@echo ... bird.obj
 	@echo ... bird.i
 	@echo ... bird.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
-	@echo ... mammal.obj
-	@echo ... mammal.i
-	@echo ... mammal.s
-	@echo ... reptile.obj
-	@echo ... reptile.i
-	@echo ... reptile.s
 .PHONY : help
 
 

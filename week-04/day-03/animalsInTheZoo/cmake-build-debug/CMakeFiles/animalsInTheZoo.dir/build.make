@@ -56,61 +56,10 @@ include CMakeFiles/animalsInTheZoo.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/animalsInTheZoo.dir/flags.make
 
-CMakeFiles/animalsInTheZoo.dir/main.cpp.obj: CMakeFiles/animalsInTheZoo.dir/flags.make
-CMakeFiles/animalsInTheZoo.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/animalsInTheZoo.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\animalsInTheZoo.dir\main.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\main.cpp
-
-CMakeFiles/animalsInTheZoo.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/animalsInTheZoo.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\main.cpp > CMakeFiles\animalsInTheZoo.dir\main.cpp.i
-
-CMakeFiles/animalsInTheZoo.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/animalsInTheZoo.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\main.cpp -o CMakeFiles\animalsInTheZoo.dir\main.cpp.s
-
-CMakeFiles/animalsInTheZoo.dir/animal.cpp.obj: CMakeFiles/animalsInTheZoo.dir/flags.make
-CMakeFiles/animalsInTheZoo.dir/animal.cpp.obj: ../animal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/animalsInTheZoo.dir/animal.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\animalsInTheZoo.dir\animal.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\animal.cpp
-
-CMakeFiles/animalsInTheZoo.dir/animal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/animalsInTheZoo.dir/animal.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\animal.cpp > CMakeFiles\animalsInTheZoo.dir\animal.cpp.i
-
-CMakeFiles/animalsInTheZoo.dir/animal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/animalsInTheZoo.dir/animal.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\animal.cpp -o CMakeFiles\animalsInTheZoo.dir\animal.cpp.s
-
-CMakeFiles/animalsInTheZoo.dir/mammal.cpp.obj: CMakeFiles/animalsInTheZoo.dir/flags.make
-CMakeFiles/animalsInTheZoo.dir/mammal.cpp.obj: ../mammal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/animalsInTheZoo.dir/mammal.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\animalsInTheZoo.dir\mammal.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\mammal.cpp
-
-CMakeFiles/animalsInTheZoo.dir/mammal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/animalsInTheZoo.dir/mammal.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\mammal.cpp > CMakeFiles\animalsInTheZoo.dir\mammal.cpp.i
-
-CMakeFiles/animalsInTheZoo.dir/mammal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/animalsInTheZoo.dir/mammal.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\mammal.cpp -o CMakeFiles\animalsInTheZoo.dir\mammal.cpp.s
-
-CMakeFiles/animalsInTheZoo.dir/reptile.cpp.obj: CMakeFiles/animalsInTheZoo.dir/flags.make
-CMakeFiles/animalsInTheZoo.dir/reptile.cpp.obj: ../reptile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/animalsInTheZoo.dir/reptile.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\animalsInTheZoo.dir\reptile.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\reptile.cpp
-
-CMakeFiles/animalsInTheZoo.dir/reptile.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/animalsInTheZoo.dir/reptile.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\reptile.cpp > CMakeFiles\animalsInTheZoo.dir\reptile.cpp.i
-
-CMakeFiles/animalsInTheZoo.dir/reptile.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/animalsInTheZoo.dir/reptile.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\reptile.cpp -o CMakeFiles\animalsInTheZoo.dir\reptile.cpp.s
-
 CMakeFiles/animalsInTheZoo.dir/bird.cpp.obj: CMakeFiles/animalsInTheZoo.dir/flags.make
+CMakeFiles/animalsInTheZoo.dir/bird.cpp.obj: CMakeFiles/animalsInTheZoo.dir/includes_CXX.rsp
 CMakeFiles/animalsInTheZoo.dir/bird.cpp.obj: ../bird.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/animalsInTheZoo.dir/bird.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/animalsInTheZoo.dir/bird.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\animalsInTheZoo.dir\bird.cpp.obj -c C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\bird.cpp
 
 CMakeFiles/animalsInTheZoo.dir/bird.cpp.i: cmake_force
@@ -123,25 +72,17 @@ CMakeFiles/animalsInTheZoo.dir/bird.cpp.s: cmake_force
 
 # Object files for target animalsInTheZoo
 animalsInTheZoo_OBJECTS = \
-"CMakeFiles/animalsInTheZoo.dir/main.cpp.obj" \
-"CMakeFiles/animalsInTheZoo.dir/animal.cpp.obj" \
-"CMakeFiles/animalsInTheZoo.dir/mammal.cpp.obj" \
-"CMakeFiles/animalsInTheZoo.dir/reptile.cpp.obj" \
 "CMakeFiles/animalsInTheZoo.dir/bird.cpp.obj"
 
 # External object files for target animalsInTheZoo
 animalsInTheZoo_EXTERNAL_OBJECTS =
 
-animalsInTheZoo.exe: CMakeFiles/animalsInTheZoo.dir/main.cpp.obj
-animalsInTheZoo.exe: CMakeFiles/animalsInTheZoo.dir/animal.cpp.obj
-animalsInTheZoo.exe: CMakeFiles/animalsInTheZoo.dir/mammal.cpp.obj
-animalsInTheZoo.exe: CMakeFiles/animalsInTheZoo.dir/reptile.cpp.obj
 animalsInTheZoo.exe: CMakeFiles/animalsInTheZoo.dir/bird.cpp.obj
 animalsInTheZoo.exe: CMakeFiles/animalsInTheZoo.dir/build.make
 animalsInTheZoo.exe: CMakeFiles/animalsInTheZoo.dir/linklibs.rsp
 animalsInTheZoo.exe: CMakeFiles/animalsInTheZoo.dir/objects1.rsp
 animalsInTheZoo.exe: CMakeFiles/animalsInTheZoo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable animalsInTheZoo.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\veikk\greenfox\greenfox\week-04\day-03\animalsInTheZoo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable animalsInTheZoo.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\animalsInTheZoo.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

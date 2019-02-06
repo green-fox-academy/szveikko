@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/bird.cpp">
+			<Option target="flyable"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/bird.h">
+			<Option target="flyable"/>
+		</Unit>
 		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/flyable.cpp">
 			<Option target="flyable"/>
 		</Unit>

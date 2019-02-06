@@ -9,6 +9,7 @@
 #include "flyable.h"
 
 class Vehicle : public Flyable {
+public:
     Vehicle();
 
     Vehicle(std::string name);

@@ -3,12 +3,8 @@ project(animalsInTheZoo)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(animalsInTheZoo main.cpp
-        animal.cpp
-        animal.h
-        mammal.cpp
-        mammal.h
-        reptile.cpp
-        reptile.h
+include_directories(.)
+
+add_executable(animalsInTheZoo
         bird.cpp
         bird.h)

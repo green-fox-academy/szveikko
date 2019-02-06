@@ -1,8 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/animalsInTheZoo.dir/main.cpp.obj"
-  "CMakeFiles/animalsInTheZoo.dir/animal.cpp.obj"
-  "CMakeFiles/animalsInTheZoo.dir/mammal.cpp.obj"
-  "CMakeFiles/animalsInTheZoo.dir/reptile.cpp.obj"
   "CMakeFiles/animalsInTheZoo.dir/bird.cpp.obj"
   "animalsInTheZoo.pdb"
   "animalsInTheZoo.exe"

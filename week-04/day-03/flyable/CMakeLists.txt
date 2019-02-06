@@ -9,4 +9,6 @@ add_executable(flyable main.cpp
         vechile.cpp
         vechile.h
         helicopter.cpp
-        helicopter.h)
+        helicopter.h
+        bird.h
+        bird.cpp)

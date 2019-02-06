@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/flyable.dir/flyable.cpp.obj"
   "CMakeFiles/flyable.dir/vechile.cpp.obj"
   "CMakeFiles/flyable.dir/helicopter.cpp.obj"
+  "CMakeFiles/flyable.dir/bird.cpp.obj"
   "flyable.pdb"
   "flyable.exe"
   "flyable.exe.manifest"

@@ -122,6 +122,33 @@ flyable/fast:
 	$(MAKE) -f CMakeFiles\flyable.dir\build.make CMakeFiles/flyable.dir/build
 .PHONY : flyable/fast
 
+bird.obj: bird.cpp.obj
+
+.PHONY : bird.obj
+
+# target to build an object file
+bird.cpp.obj:
+	$(MAKE) -f CMakeFiles\flyable.dir\build.make CMakeFiles/flyable.dir/bird.cpp.obj
+.PHONY : bird.cpp.obj
+
+bird.i: bird.cpp.i
+
+.PHONY : bird.i
+
+# target to preprocess a source file
+bird.cpp.i:
+	$(MAKE) -f CMakeFiles\flyable.dir\build.make CMakeFiles/flyable.dir/bird.cpp.i
+.PHONY : bird.cpp.i
+
+bird.s: bird.cpp.s
+
+.PHONY : bird.s
+
+# target to generate assembly for a file
+bird.cpp.s:
+	$(MAKE) -f CMakeFiles\flyable.dir\build.make CMakeFiles/flyable.dir/bird.cpp.s
+.PHONY : bird.cpp.s
+
 flyable.obj: flyable.cpp.obj
 
 .PHONY : flyable.obj
@@ -239,6 +266,9 @@ help:
 	@echo ... flyable
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... bird.obj
+	@echo ... bird.i
+	@echo ... bird.s
 	@echo ... flyable.obj
 	@echo ... flyable.i
 	@echo ... flyable.s

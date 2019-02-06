@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/bird.cpp" "C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/cmake-build-debug/CMakeFiles/flyable.dir/bird.cpp.obj"
   "C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/flyable.cpp" "C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/cmake-build-debug/CMakeFiles/flyable.dir/flyable.cpp.obj"
   "C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/helicopter.cpp" "C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/cmake-build-debug/CMakeFiles/flyable.dir/helicopter.cpp.obj"
   "C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/main.cpp" "C:/Users/veikk/greenfox/greenfox/week-04/day-03/flyable/cmake-build-debug/CMakeFiles/flyable.dir/main.cpp.obj"

@@ -5,9 +5,10 @@
 #ifndef FLYABLE_HELICOPTER_H
 #define FLYABLE_HELICOPTER_H
 
+#include "vechile.h"
 
-class helicopter {
-
+class Helicopter : public Vehicle {
+    Helicopter();
 };
 
 

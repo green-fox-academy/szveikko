@@ -1,3 +1,0 @@
-C:/Users/veikk/greenfox/greenfox/week-03/weekend/Station/cmake-build-debug/CMakeFiles/Station.dir
-C:/Users/veikk/greenfox/greenfox/week-03/weekend/Station/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/veikk/greenfox/greenfox/week-03/weekend/Station/cmake-build-debug/CMakeFiles/rebuild_cache.dir

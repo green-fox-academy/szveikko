@@ -3,4 +3,11 @@ project(FarmAgain)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(FarmAgain main.cpp animal.cpp animal.h farm.h farm.cpp)
+include_directories(.)
+
+add_executable(FarmAgain
+        animal.cpp
+        animal.h
+        farm.cpp
+        farm.h
+        main.cpp)

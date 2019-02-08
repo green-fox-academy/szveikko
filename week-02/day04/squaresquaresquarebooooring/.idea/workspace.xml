@@ -14,7 +14,6 @@
     <list default="true" id="fc417b3e-0606-4c42-a986-7e9bf34a3717" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../day02/voidSwap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day02/voidSwap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day03/writeMultipleLines/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/writeMultipleLines/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,12 +105,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548344425222</updated>
-      <workItem from="1548344426848" duration="7997000" />
+      <workItem from="1548344426848" duration="8033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7997000" />
+    <option name="totallyTimeSpent" value="8033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -128,7 +127,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33002833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33002833" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

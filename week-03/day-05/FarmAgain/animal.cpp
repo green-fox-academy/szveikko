@@ -7,7 +7,21 @@
 #include <vector>
 
 
-Animal::Animal(int hunger, int thirst){
-    thirst_ = thirst;
-    hunger_ = hunger;
+Animal::Animal() {
+    thirst_ = 50;
+    hunger_ = 50;
+    isalive_ = true;
+}
+
+void Animal::play() {
+    thirst_--;
+    hunger_--;
+}
+
+void Animal::drink() {
+    thirst_++;
+}
+
+void Animal::eat() {
+    hunger_--;
 }

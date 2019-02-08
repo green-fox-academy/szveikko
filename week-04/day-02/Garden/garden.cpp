@@ -2,6 +2,7 @@
 // Created by veikk on 05/02/2019.
 //
 
+#include <iostream>
 #include "garden.h"
 
 void Garden::addFlowers(int numberOfFlowers) {
@@ -61,4 +62,5 @@ void Garden::waterThePlants(int inputAmountOfWater) {
             vectorOfTrees[j]._waterTree += (waterRation*0.4);
         }
     }
+    std::cout << "Your plants still are in need of exactly: " << waterNeededInTotal() << " water." <<  std::endl;
 }

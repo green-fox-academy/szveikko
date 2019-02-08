@@ -4,13 +4,22 @@
 
 #ifndef ANIMALSTEST_FARM_H
 #define ANIMALSTEST_FARM_H
+#include "animal.h"
+#include <list>
+#include <vector>
 
+class Farm {
+public:
 
+    std::vector <Animal> vectorOfAnimals[10];
+    int maxIndex = 10;
 
-class farm {
+    void breed();
+
+    void slaugther();
+
 
 };
-
 
 
 #endif //ANIMALSTEST_FARM_H

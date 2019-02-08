@@ -5,8 +5,22 @@
 #ifndef FARMAGAIN_FARM_H
 #define FARMAGAIN_FARM_H
 
+#include "animal.h"
+#include <iostream>
+#include <array>
 
-class farm {
+class Farm {
+public:
+    int numberOfAnimals_;
+    Farm();
+
+    std::array<Animal, 100>arrayOfAnimals;
+
+    void howManyAnimals();
+
+    void breed();
+
+    void slaugther();
 
 };
 

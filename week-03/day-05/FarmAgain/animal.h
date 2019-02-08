@@ -8,11 +8,18 @@
 #include <vector>
 #include <iostream>
 
-class Animal (int hunger,int thirst) {
+class Animal {
 public:
-    Animal(hunger, thirst);
+    Animal();
+    bool isalive_;
     int hunger_;
     int thirst_;
+
+    void drink();
+
+    void eat();
+
+    void play();
 };
 
 

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/FarmAgain.dir/main.cpp.obj"
   "CMakeFiles/FarmAgain.dir/animal.cpp.obj"
   "CMakeFiles/FarmAgain.dir/farm.cpp.obj"
+  "CMakeFiles/FarmAgain.dir/main.cpp.obj"
   "FarmAgain.pdb"
   "FarmAgain.exe"
   "FarmAgain.exe.manifest"

@@ -11,18 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92ff78a6-7758-4b0d-bc9b-d7f21ea5b6ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../week-01/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/day03.dir/ex7.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/day03.dir/ex7.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/day03.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/CMakeFiles/day03.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/day03.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day03/cmake-build-debug/day03.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-01/day04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-01/day04/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day04/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-01/day05/MultiBoard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day05/MultiBoard/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day01/reverseString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day01/reverseString/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lookForMinimum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lookForMinimum/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="92ff78a6-7758-4b0d-bc9b-d7f21ea5b6ae" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,12 +101,12 @@
       <option name="presentableId" value="Default" />
       <updated>1548178495579</updated>
       <workItem from="1548178497749" duration="3228000" />
-      <workItem from="1548236596809" duration="881000" />
+      <workItem from="1548236596809" duration="1497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4109000" />
+    <option name="totallyTimeSpent" value="4725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -128,7 +117,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

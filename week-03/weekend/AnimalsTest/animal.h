@@ -6,11 +6,21 @@
 #define ANIMALSTEST_ANIMAL_H
 
 
+class Animal {
+public:
+    Animal();
 
-class animal {
+    int _thirst;
+    int _hunger;
 
+    void eat();
+
+    void drink();
+
+    void play();
+
+    int howHungry();
 };
-
 
 
 #endif //ANIMALSTEST_ANIMAL_H

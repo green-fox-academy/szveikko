@@ -10,6 +10,7 @@
 
 class Aircraft {
 public:
+    Aircraft();
     std::string _type;
     int _ammo;
     int _baseDamage;

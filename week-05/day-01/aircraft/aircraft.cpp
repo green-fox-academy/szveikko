@@ -5,6 +5,13 @@
 #include <iostream>
 #include "aircraft.h"
 
+Aircraft::Aircraft() {
+    _type = "basic";
+    _ammo = 0;
+    _maxAmmo = 0;
+    _baseDamage = 0;
+}
+
 int Aircraft::fight() {
     return _ammo * _baseDamage;
 }

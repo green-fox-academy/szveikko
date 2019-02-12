@@ -6,11 +6,55 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/scanner.cpp
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/copier.cpp
 iostream
 -
+copier.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/copier.h
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/copier.h
+printer2D.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/printer2D.h
 scanner.h
 C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/scanner.h
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/main.cpp
+iostream
+-
+printer2D.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/printer2D.h
+printer.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/printer.h
+printer3D.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/printer3D.h
+copier.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/copier.h
+scanner.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/scanner.h
+vector
+-
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/printer.cpp
+iostream
+-
+printer.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/printer.h
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/printer.h
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/printer2D.cpp
+iostream
+-
+printer2D.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/printer2D.h
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/printer2D.h
+printer.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/printer.h
+
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/printer3D.h
+printer.h
+C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/printer.h
 
 C:/Users/veikk/greenfox/greenfox/week-04/day-03/ModelDevices/scanner.h
 

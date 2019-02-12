@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2018.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\veikk\greenfox\greenfox\week-04\day-03\apples
+-- Found PythonInterp: C:/Users/veikk/AppData/Local/Programs/Python/Python37-32/python.exe (found version "3.7") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug

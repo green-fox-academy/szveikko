@@ -43,7 +43,6 @@ int main() {
             bigNum = vectorOfNumbers[i];
         }
     }
-    std::cout << "biNum = " << bigNum << std::endl;
     std::cout << "Vector size = " << vectorOfNumbers.size() << std::endl;
     std::cout << "The biggest number of the vector: " << *p_bigNum << std::endl;
 }

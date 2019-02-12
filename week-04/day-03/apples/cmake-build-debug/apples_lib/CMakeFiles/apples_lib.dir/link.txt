@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libapples_lib.a  CMakeFiles/apples_lib.dir/MyClass.cpp.obj
+C:\MinGW\bin\ranlib.exe libapples_lib.a

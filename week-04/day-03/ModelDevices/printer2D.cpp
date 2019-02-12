@@ -6,8 +6,8 @@
 #include "printer2D.h"
 
 Printer2D::Printer2D(){
-
-
+    _sizeX = 0;
+    _sizeY = 0;
 }
 
 Printer2D::Printer2D(int inputX, int inputY){

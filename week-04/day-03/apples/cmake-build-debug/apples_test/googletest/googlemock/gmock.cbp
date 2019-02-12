@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="gmock"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\apples_lib\;CMake Files\apples_test\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\DewTools\;CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\;CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\;CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\googlemock\;CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\googlemock\cmake\;CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\googletest\;CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\googletest\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_main">
+				<Option output="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/lib/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DWINVER=0x0500"/>
+					<Add directory="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/apples_lib"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googlemock/include"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googlemock"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest/include"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_main/fast">
+				<Option output="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/lib/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DWINVER=0x0500"/>
+					<Add directory="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/apples_lib"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googlemock/include"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googlemock"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest/include"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock">
+				<Option output="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/lib/libgmockd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DWINVER=0x0500"/>
+					<Add directory="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/apples_lib"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googlemock/include"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googlemock"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest/include"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock/fast">
+				<Option output="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/lib/libgmockd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DWINVER=0x0500"/>
+					<Add directory="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/apples_lib"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googlemock/include"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googlemock"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest/include"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DWINVER=0x0500"/>
+					<Add directory="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/apples_lib"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest/include"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DWINVER=0x0500"/>
+					<Add directory="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/apples_lib"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest/include"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DWINVER=0x0500"/>
+					<Add directory="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/apples_lib"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest/include"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DWINVER=0x0500"/>
+					<Add directory="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/apples_lib"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest/include"/>
+					<Add directory="C:/DewTools/GoogleTests/googletest/googletest"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/cmake-build-debug/apples_test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/DewTools/GoogleTests/googletest/googlemock/src/gmock-all.cc">
+			<Option target="gmock"/>
+		</Unit>
+		<Unit filename="C:/DewTools/GoogleTests/googletest/googlemock/src/gmock_main.cc">
+			<Option target="gmock_main"/>
+		</Unit>
+		<Unit filename="C:/DewTools/GoogleTests/googletest/googletest/src/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="C:/DewTools/GoogleTests/googletest/googletest/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/apples_lib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\apples_lib\"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/apples_test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\apples_test\"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/../../../../../../../DewTools/GoogleTests/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/../../../../../../../DewTools/GoogleTests/googletest/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\googlemock\"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/../../../../../../../DewTools/GoogleTests/googletest/googlemock/cmake/gmock.pc.in">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\googlemock\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/../../../../../../../DewTools/GoogleTests/googletest/googlemock/cmake/gmock_main.pc.in">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\googlemock\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/../../../../../../../DewTools/GoogleTests/googletest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\googletest\"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/../../../../../../../DewTools/GoogleTests/googletest/googletest/cmake/Config.cmake.in">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/../../../../../../../DewTools/GoogleTests/googletest/googletest/cmake/gtest.pc.in">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/../../../../../../../DewTools/GoogleTests/googletest/googletest/cmake/gtest_main.pc.in">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-04/day-03/apples/../../../../../../../DewTools/GoogleTests/googletest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\DewTools\GoogleTests\googletest\googletest\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

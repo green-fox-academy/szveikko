@@ -6,7 +6,8 @@
 #include "printer.h"
 
 void Printer::print() {
-    std::cout << "I'm printing something that is ";
+
+    std::cout << "I'm printing something that is:  ";
     getSize();
-    std::cout << " long." << std::endl;
+
 }

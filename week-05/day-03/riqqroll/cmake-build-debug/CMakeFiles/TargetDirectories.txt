@@ -1,0 +1,3 @@
+C:/Users/veikk/greenfox/greenfox/week-05/day-03/riqqroll/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/veikk/greenfox/greenfox/week-05/day-03/riqqroll/cmake-build-debug/CMakeFiles/riqqroll.dir
+C:/Users/veikk/greenfox/greenfox/week-05/day-03/riqqroll/cmake-build-debug/CMakeFiles/edit_cache.dir

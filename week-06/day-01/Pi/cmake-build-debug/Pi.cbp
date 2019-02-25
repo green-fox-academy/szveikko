@@ -74,6 +74,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-06/day-01/Pi/circumference.h">
+			<Option target="Pi"/>
+		</Unit>
 		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-06/day-01/Pi/main.c">
 			<Option target="Pi"/>
 		</Unit>

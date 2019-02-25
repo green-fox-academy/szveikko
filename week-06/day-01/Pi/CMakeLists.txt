@@ -3,4 +3,5 @@ project(Pi C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Pi main.c)
+add_executable(Pi main.c
+        circumference.h)

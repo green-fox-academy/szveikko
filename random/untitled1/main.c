@@ -29,7 +29,11 @@ int main()
     //  31
     //  1.87
 
+    printf("Szabo Veikko Balint\n");
+    printf("%d\n", 31);
+    printf("%f\n", 1.80);
 
+    
 
     return 0;
 }

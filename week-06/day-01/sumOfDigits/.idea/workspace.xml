@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="oddOrEven" targetName="oddOrEven" />
+      <config projectName="sumOfDigits" targetName="sumOfDigits" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="492c95b1-7982-4511-b32b-1aebcfd36115" name="Default Changelist" comment="">
+    <list default="true" id="cf381bab-da05-4f71-aedb-1d20fa3a5eaa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../random/untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../random/untitled1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../random/untitled1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../random/untitled1/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-05/day-01/aircraft/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-05/day-01/aircraft/.idea/workspace.xml" afterDir="false" />
@@ -43,6 +43,7 @@
       <change beforePath="$PROJECT_DIR$/../../../week-05/day03/restaurant/restaurant.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-05/day03/restaurant/restaurant.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-05/day03/restaurant/waiter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-05/day03/restaurant/waiter.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-05/day03/restaurant/waiter.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-05/day03/restaurant/waiter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oddOrEven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oddOrEven/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,8 +63,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="268">
+              <caret line="48" column="23" lean-forward="true" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,9 +85,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="950" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -91,14 +95,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,7 +118,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="oddOrEven" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oddOrEven" TARGET_NAME="oddOrEven" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oddOrEven" RUN_TARGET_NAME="oddOrEven">
+    <configuration name="sumOfDigits" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sumOfDigits" TARGET_NAME="sumOfDigits" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sumOfDigits" RUN_TARGET_NAME="sumOfDigits">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -124,35 +129,35 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="492c95b1-7982-4511-b32b-1aebcfd36115" name="Default Changelist" comment="" />
-      <created>1551099190836</created>
+      <changelist id="cf381bab-da05-4f71-aedb-1d20fa3a5eaa" name="Default Changelist" comment="" />
+      <created>1551099410574</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551099190836</updated>
-      <workItem from="1551099192194" duration="215000" />
+      <updated>1551099410574</updated>
+      <workItem from="1551099412108" duration="862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215000" />
+    <option name="totallyTimeSpent" value="862000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="760" y="0" width="782" height="831" extended-state="0" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24930748" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32904148" />
+      <window_info anchor="bottom" id="Messages" weight="0.32808024" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32904148" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32808024" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -165,14 +170,28 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="268">
+          <caret line="48" column="23" lean-forward="true" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

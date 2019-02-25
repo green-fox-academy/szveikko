@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Pi" targetName="Pi" />
+      <config projectName="old_enough" targetName="old_enough" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7922e44-c4e1-49db-8ef6-258a080ab2e4" name="Default Changelist" comment="">
+    <list default="true" id="be71ebfc-07d6-4af0-bc86-6a941157b8ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../random/untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../random/untitled1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../random/untitled1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../random/untitled1/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-05/day-01/aircraft/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-05/day-01/aircraft/.idea/workspace.xml" afterDir="false" />
@@ -43,6 +43,7 @@
       <change beforePath="$PROJECT_DIR$/../../../week-05/day03/restaurant/restaurant.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-05/day03/restaurant/restaurant.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-05/day03/restaurant/waiter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-05/day03/restaurant/waiter.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-05/day03/restaurant/waiter.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-05/day03/restaurant/waiter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pi/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,30 +57,14 @@
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circumference.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -92,9 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main.h" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/circumference.h" />
         <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
@@ -110,21 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Pi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -146,7 +114,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Pi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pi" TARGET_NAME="Pi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pi" RUN_TARGET_NAME="Pi">
+    <configuration name="old_enough" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="old_enough" TARGET_NAME="old_enough" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="old_enough" RUN_TARGET_NAME="old_enough">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -157,17 +125,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a7922e44-c4e1-49db-8ef6-258a080ab2e4" name="Default Changelist" comment="" />
-      <created>1551096204308</created>
+      <changelist id="be71ebfc-07d6-4af0-bc86-6a941157b8ad" name="Default Changelist" comment="" />
+      <created>1551098013547</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551096204308</updated>
-      <workItem from="1551096206015" duration="1505000" />
+      <updated>1551098013547</updated>
+      <workItem from="1551098015088" duration="868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1505000" />
+    <option name="totallyTimeSpent" value="868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
@@ -179,12 +147,12 @@
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32808024" />
+      <window_info anchor="bottom" id="Messages" weight="0.3295129" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33094555" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295129" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -199,34 +167,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circumference.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,3 @@
+C:/Users/veikk/greenfox/greenfox/week-06/day-02/sandwich/cmake-build-debug/CMakeFiles/sandwich.dir
+C:/Users/veikk/greenfox/greenfox/week-06/day-02/sandwich/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/veikk/greenfox/greenfox/week-06/day-02/sandwich/cmake-build-debug/CMakeFiles/rebuild_cache.dir

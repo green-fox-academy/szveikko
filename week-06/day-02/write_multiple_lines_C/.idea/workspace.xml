@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="math_C" targetName="math_C" />
+      <config projectName="write_multiple_lines_C" targetName="write_multiple_lines_C" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e1049dc-5b49-4563-9343-54740810a739" name="Default Changelist" comment="">
+    <list default="true" id="7dfd0682-df83-47c8-b4a0-ad8f3bf0a24a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../random/untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../random/untitled1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../random/untitled1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../random/untitled1/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-05/day-01/aircraft/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-05/day-01/aircraft/.idea/workspace.xml" afterDir="false" />
@@ -44,6 +44,7 @@
       <change beforePath="$PROJECT_DIR$/../../../week-05/day03/restaurant/waiter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-05/day03/restaurant/waiter.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-05/day03/restaurant/waiter.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-05/day03/restaurant/waiter.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day-01/are_the_same/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-01/are_the_same/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math_C/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../math_C/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,14 +61,23 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="423">
+              <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cmake-build-debug/my-file.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -95,7 +105,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="write_multiple_lines_C" type="b2602c69:ProjectViewProjectNode" />
+              <item name="write_multiple_lines_C" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="write_multiple_lines_C" type="b2602c69:ProjectViewProjectNode" />
+              <item name="write_multiple_lines_C" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -103,6 +128,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,7 +143,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="math_C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="math_C" TARGET_NAME="math_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="math_C" RUN_TARGET_NAME="math_C">
+    <configuration name="write_multiple_lines_C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="write_multiple_lines_C" TARGET_NAME="write_multiple_lines_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="write_multiple_lines_C" RUN_TARGET_NAME="write_multiple_lines_C">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -128,35 +154,35 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1e1049dc-5b49-4563-9343-54740810a739" name="Default Changelist" comment="" />
-      <created>1551188582968</created>
+      <changelist id="7dfd0682-df83-47c8-b4a0-ad8f3bf0a24a" name="Default Changelist" comment="" />
+      <created>1551189510146</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551188582968</updated>
-      <workItem from="1551188585175" duration="893000" />
+      <updated>1551189510146</updated>
+      <workItem from="1551189511895" duration="2674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="893000" />
+    <option name="totallyTimeSpent" value="2674000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5159501" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.51543623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295129" />
+      <window_info anchor="bottom" id="Messages" weight="0.32719547" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32808024" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40401146" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -173,13 +199,23 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/write_multiple_lines_C.cbp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="423">
+          <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/my-file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>

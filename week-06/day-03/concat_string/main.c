@@ -14,7 +14,7 @@ int main() {
     char *string2;
     string2 = "pacs";
 
-    char *result_string;
+    char *result_string = NULL;
     result_string = concatenate_strings(string1, string2);
     printf("%s", result_string);
     free(result_string);

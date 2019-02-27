@@ -1,0 +1,3 @@
+C:/Users/veikk/greenfox/greenfox/week-06/day-03/realloc_basic/cmake-build-debug/CMakeFiles/realloc_basic.dir
+C:/Users/veikk/greenfox/greenfox/week-06/day-03/realloc_basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/veikk/greenfox/greenfox/week-06/day-03/realloc_basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

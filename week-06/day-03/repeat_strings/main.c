@@ -11,9 +11,9 @@ char *repeat_string(char* string1, int numberOfTimes);
 
 int main()
 {
-    char * gecc = "gec gecc";
+    char * gecc = "gecc";
     int number = 69;
-    char * result_string = NULL;
+    char * result_string;
     result_string = repeat_string(gecc, number);
     printf("%s", result_string);
     return 0;
@@ -21,10 +21,9 @@ int main()
 
 char *repeat_string(char* string1, int numberOfTimes){
     char* result_string;
-    result_string = malloc(numberOfTimes*sizeof(string1)*sizeof(int));
+    result_string = (int*)calloc(0, numberOfTimes*sizeof(string1));
     for (int i = 0; i < numberOfTimes ; ++i) {
         strcat(result_string, string1);
     }
-    //printf("%s", result_string);
     return result_string;
 }

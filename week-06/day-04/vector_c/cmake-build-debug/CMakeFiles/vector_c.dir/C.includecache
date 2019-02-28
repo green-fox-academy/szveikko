@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/veikk/greenfox/greenfox/week-06/day-04/vector_c/vector.c
+malloc.h
+-
+vector.h
+C:/Users/veikk/greenfox/greenfox/week-06/day-04/vector_c/vector.h
+
+C:/Users/veikk/greenfox/greenfox/week-06/day-04/vector_c/vector.h
+stdio.h
+-
+

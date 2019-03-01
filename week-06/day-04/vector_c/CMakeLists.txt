@@ -4,4 +4,5 @@ project(vector_c C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(vector_c vector.c
+        main.c
         vector.h)

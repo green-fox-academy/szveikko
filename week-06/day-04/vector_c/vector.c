@@ -1,12 +1,10 @@
 #include <malloc.h>
 #include "vector.h"
 
-vector_t vector_init(size_t capacity) {
-    vector_t vector01;
-    vector01.size = 0;
-    vector01.capacity = capacity;
-    vector01.elements = (int *) malloc(capacity);
-    return vector01;
+void vector_init(vector_t *vector, size_t input_capacity) {
+    vector->size = 0;
+    vector->capacity = input_capacity;
+    vector->elements = (int *) malloc(input_capacity);
 }
 
 void vector_push_back(vector_t *vector, int a) {
@@ -16,12 +14,13 @@ void vector_push_back(vector_t *vector, int a) {
     } else {
         vector->size++;
     }
-    vector->elements[vector->size] = a;
+    vector->elements[vector->size - 1] = a;
 }
 
 void vector_insert(vector_t *vector, size_t pos, int a) {
     while (vector->size >= vector->capacity && vector->capacity < pos) {
-        vector->elements = realloc(vector->elements, vector->capacity * 2);
+        vector->capacity *= 2;
+        vector->elements = realloc(vector->elements, vector->capacity);
     }
     for (int i = vector->size - 1; i >= pos - 1; --i) {
         vector->elements[i + 1] = vector->elements[i];
@@ -33,16 +32,15 @@ size_t vector_size(vector_t *vector) {
     return vector->size;
 }
 
-size_t vector_capacity(vector_t *vector) {
+int vector_capacity(vector_t *vector) {
     return vector->capacity;
 }
 
-size_t vector_empty(vector_t *vector) {
+size_t vector_is_empty(vector_t *vector) {
     if (vector->size == 0) {
         return 1;
-    } else {
-        return 0;
     }
+    return 0;
 }
 
 void vector_pop_back(vector_t *vector) {
@@ -72,24 +70,35 @@ int vector_find_element_index(vector_t *vector, int element) {
 
 void vector_unique(vector_t *vector) {
 
-    for (int i = 0; i < vector->size; i++) {
-        for (int j = 0; j < i - 1; j++) {
-            if (vector->elements[i] == vector->elements[j]){
-                for (int k = i; k < vector->size ; ++k) {
-                    vector->elements[k] = vector->elements[k+1];
+    for (size_t i = 0; i < vector->size; i++) {
+        for (size_t j = 0; j < i - 1; j++) {
+            if (vector->elements[i] == vector->elements[j])
+                if (i > j) {
+                    vector_pop_at(vector, i);
+                    vector_pop_at(vector, j);
+                    vector->size -= 2;
+                } else {
+                    vector_pop_at(vector, j);
+                    vector_pop_at(vector, i);
+                    vector->size -= 2;
                 }
-                vector->size--;
-                for (int l = j-1; l < vector->size; ++l) {
-                    vector->elements[l] = vector->elements[l+1];
-                }
-                vector->size--;
-            }else if(vector->elements[i] == vector->elements[j]){
-            //ended here
-            }
         }
-
+        for (size_t k = i+1; k < vector->size ; ++k) {
+            if (vector->elements[i] == vector->elements[k])
+                if (i > k) {
+                    vector_pop_at(vector, i);
+                    vector_pop_at(vector, k);
+                    vector->size -= 2;
+                } else {
+                    vector_pop_at(vector, k);
+                    vector_pop_at(vector, i);
+                    vector->size -= 2;
+                }
+        }
+        }
     }
-}
+
+
 
 
 

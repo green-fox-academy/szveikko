@@ -122,6 +122,33 @@ vector_c/fast:
 	$(MAKE) -f CMakeFiles\vector_c.dir\build.make CMakeFiles/vector_c.dir/build
 .PHONY : vector_c/fast
 
+main.obj: main.c.obj
+
+.PHONY : main.obj
+
+# target to build an object file
+main.c.obj:
+	$(MAKE) -f CMakeFiles\vector_c.dir\build.make CMakeFiles/vector_c.dir/main.c.obj
+.PHONY : main.c.obj
+
+main.i: main.c.i
+
+.PHONY : main.i
+
+# target to preprocess a source file
+main.c.i:
+	$(MAKE) -f CMakeFiles\vector_c.dir\build.make CMakeFiles/vector_c.dir/main.c.i
+.PHONY : main.c.i
+
+main.s: main.c.s
+
+.PHONY : main.s
+
+# target to generate assembly for a file
+main.c.s:
+	$(MAKE) -f CMakeFiles\vector_c.dir\build.make CMakeFiles/vector_c.dir/main.c.s
+.PHONY : main.c.s
+
 vector.obj: vector.c.obj
 
 .PHONY : vector.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... vector_c
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... main.obj
+	@echo ... main.i
+	@echo ... main.s
 	@echo ... vector.obj
 	@echo ... vector.i
 	@echo ... vector.s

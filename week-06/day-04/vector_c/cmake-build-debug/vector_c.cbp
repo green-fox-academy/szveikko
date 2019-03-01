@@ -74,6 +74,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-06/day-04/vector_c/main.c">
+			<Option target="vector_c"/>
+		</Unit>
 		<Unit filename="C:/Users/veikk/greenfox/greenfox/week-06/day-04/vector_c/vector.c">
 			<Option target="vector_c"/>
 		</Unit>

@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/veikk/greenfox/greenfox/week-06/day-04/vector_c/main.c" "C:/Users/veikk/greenfox/greenfox/week-06/day-04/vector_c/cmake-build-debug/CMakeFiles/vector_c.dir/main.c.obj"
   "C:/Users/veikk/greenfox/greenfox/week-06/day-04/vector_c/vector.c" "C:/Users/veikk/greenfox/greenfox/week-06/day-04/vector_c/cmake-build-debug/CMakeFiles/vector_c.dir/vector.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
